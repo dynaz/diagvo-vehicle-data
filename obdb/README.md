@@ -1,6 +1,7 @@
 # Diagvo vehicle generations adapted from OBDb
 
-This folder is an **adapted dataset** of OBDb, published under the
+This folder is an **adapted dataset** of OBDb (public copy:
+<https://github.com/dynaz/diagvo-vehicle-data/tree/main/obdb>), published under the
 **Creative Commons Attribution-ShareAlike 4.0 International** licence
 (CC BY-SA 4.0, full text in [`LICENSE`](LICENSE)).
 
