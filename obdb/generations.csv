@@ -1,0 +1,279 @@
+make_id,model_id,generation_id,name,year_start,year_end,source_repo,source_commit
+bmw,e39,obdb-fourth-generation-e39,Fourth Generation (E39),1995,2004,https://github.com/OBDb/BMW-5-Series,4c3d5ced3a0a91c4a0c3c3ceaed8cdc40e13bb58
+bmw,e46,obdb-fourth-generation-e46,Fourth Generation (E46),1998,2006,https://github.com/OBDb/BMW-3-Series,3148c1c568ee305390c6356585d1c2b4beb04ab8
+bmw,e60,obdb-fifth-generation-e60-e61,Fifth Generation (E60/E61),2003,2010,https://github.com/OBDb/BMW-5-Series,4c3d5ced3a0a91c4a0c3c3ceaed8cdc40e13bb58
+bmw,e90,obdb-fifth-generation-e90-e91-e92-e93,Fifth Generation (E90/E91/E92/E93),2004,2012,https://github.com/OBDb/BMW-3-Series,3148c1c568ee305390c6356585d1c2b4beb04ab8
+chevrolet,aveo,obdb-first-generation-t200,First Generation (T200),2002,2005,https://github.com/OBDb/Chevrolet-Aveo,f8bcc2b06212681a0fee8175f6c11f01ac714cdc
+chevrolet,aveo,obdb-first-generation-t250-facelift,First Generation (T250 Facelift),2005,2011,https://github.com/OBDb/Chevrolet-Aveo,f8bcc2b06212681a0fee8175f6c11f01ac714cdc
+chevrolet,aveo,obdb-second-generation-t300,Second Generation (T300),2011,2016,https://github.com/OBDb/Chevrolet-Aveo,f8bcc2b06212681a0fee8175f6c11f01ac714cdc
+chevrolet,aveo,obdb-second-generation-t300-facelift,Second Generation (T300 Facelift),2016,2020,https://github.com/OBDb/Chevrolet-Aveo,f8bcc2b06212681a0fee8175f6c11f01ac714cdc
+chevrolet,aveo,obdb-chevrolet-sail-based-aveo-mexico-central-america,Chevrolet Sail-based Aveo (Mexico/Central America),2017,2023,https://github.com/OBDb/Chevrolet-Aveo,f8bcc2b06212681a0fee8175f6c11f01ac714cdc
+chevrolet,aveo,obdb-third-generation-310c,Third Generation (310C),2023,,https://github.com/OBDb/Chevrolet-Aveo,f8bcc2b06212681a0fee8175f6c11f01ac714cdc
+chevrolet,colorado,obdb-first-generation,First Generation,2003,2012,https://github.com/OBDb/Chevrolet-Colorado,b2a02dfadea7e715270b2d4fc18b0de8445cfea3
+chevrolet,colorado,obdb-second-generation,Second Generation,2012,2022,https://github.com/OBDb/Chevrolet-Colorado,b2a02dfadea7e715270b2d4fc18b0de8445cfea3
+chevrolet,colorado,obdb-third-generation,Third Generation,2023,,https://github.com/OBDb/Chevrolet-Colorado,b2a02dfadea7e715270b2d4fc18b0de8445cfea3
+chevrolet,cruze,obdb-first-generation,First Generation,2008,2016,https://github.com/OBDb/Chevrolet-Cruze,4c2e5f5d45b67d0cb6c52077661baa5e459406e5
+chevrolet,cruze,obdb-second-generation,Second Generation,2015,2019,https://github.com/OBDb/Chevrolet-Cruze,4c2e5f5d45b67d0cb6c52077661baa5e459406e5
+chevrolet,sonic,obdb-first-generation,First Generation,2012,2020,https://github.com/OBDb/Chevrolet-Sonic,83ce220ca37487b5a5be7d5a4fb20f633e229a38
+chevrolet,spin,obdb-first-generation,First Generation,2012,,https://github.com/OBDb/Chevrolet-Spin,ce35fdefa96aef2ced321cfa0625093586675b53
+chevrolet,trailblazer,obdb-first-generation-kc-2002-2005,First Generation (KC; 2002-2005),2002,2005,https://github.com/OBDb/Chevrolet-Trailblazer,c3b0883f72002b8864970269d7a5a8f82630de48
+chevrolet,trailblazer,obdb-first-generation-kc-2006-2009-facelifted,First Generation (KC; 2006-2009) - Facelifted,2006,2009,https://github.com/OBDb/Chevrolet-Trailblazer,c3b0883f72002b8864970269d7a5a8f82630de48
+chevrolet,trailblazer,obdb-second-generation-rg-2012-2020-international-markets,Second Generation (RG; 2012-2020) - International Markets,2012,2020,https://github.com/OBDb/Chevrolet-Trailblazer,c3b0883f72002b8864970269d7a5a8f82630de48
+chevrolet,trailblazer,obdb-third-generation-9bxx-2021-2023,Third Generation (9BXX; 2021-2023),2021,2023,https://github.com/OBDb/Chevrolet-Trailblazer,c3b0883f72002b8864970269d7a5a8f82630de48
+chevrolet,trailblazer,obdb-third-generation-9bxx-2024-facelifted,Third Generation (9BXX; 2024+) - Facelifted,2024,,https://github.com/OBDb/Chevrolet-Trailblazer,c3b0883f72002b8864970269d7a5a8f82630de48
+ford,ecosport,obdb-first-generation,First Generation,2003,2012,https://github.com/OBDb/Ford-EcoSport,ef367ce978a6cde3633762af07af70cad8c3b7ba
+ford,ecosport,obdb-second-generation,Second Generation,2012,2017,https://github.com/OBDb/Ford-EcoSport,ef367ce978a6cde3633762af07af70cad8c3b7ba
+ford,ecosport,obdb-second-generation-2017-facelift,Second Generation (2017 Facelift),2017,2022,https://github.com/OBDb/Ford-EcoSport,ef367ce978a6cde3633762af07af70cad8c3b7ba
+ford,escape,obdb-first-generation,First Generation,2001,2007,https://github.com/OBDb/Ford-Escape,4a8476cc88ebabf52cea58ca2dec7a519c8573e0
+ford,escape,obdb-second-generation,Second Generation,2008,2012,https://github.com/OBDb/Ford-Escape,4a8476cc88ebabf52cea58ca2dec7a519c8573e0
+ford,escape,obdb-third-generation,Third Generation,2013,2016,https://github.com/OBDb/Ford-Escape,4a8476cc88ebabf52cea58ca2dec7a519c8573e0
+ford,escape,obdb-third-generation-2017-facelift,Third Generation (2017 Facelift),2017,2019,https://github.com/OBDb/Ford-Escape,4a8476cc88ebabf52cea58ca2dec7a519c8573e0
+ford,escape,obdb-fourth-generation,Fourth Generation,2020,2022,https://github.com/OBDb/Ford-Escape,4a8476cc88ebabf52cea58ca2dec7a519c8573e0
+ford,escape,obdb-fourth-generation-2023-facelift,Fourth Generation (2023 Facelift),2023,2026,https://github.com/OBDb/Ford-Escape,4a8476cc88ebabf52cea58ca2dec7a519c8573e0
+ford,everest,obdb-first-generation-2003-2006,First Generation (2003-2006),2003,2006,https://github.com/OBDb/Ford-Everest,a503df0f505426ce5ab926ef80cebd4613a2c428
+ford,everest,obdb-first-generation-2007-facelift,First Generation (2007 Facelift),2007,2008,https://github.com/OBDb/Ford-Everest,a503df0f505426ce5ab926ef80cebd4613a2c428
+ford,everest,obdb-first-generation-2009-facelift,First Generation (2009 Facelift),2009,2011,https://github.com/OBDb/Ford-Everest,a503df0f505426ce5ab926ef80cebd4613a2c428
+ford,everest,obdb-first-generation-2012-2015,First Generation (2012-2015),2012,2015,https://github.com/OBDb/Ford-Everest,a503df0f505426ce5ab926ef80cebd4613a2c428
+ford,everest,obdb-second-generation,Second Generation,2015,2022,https://github.com/OBDb/Ford-Everest,a503df0f505426ce5ab926ef80cebd4613a2c428
+ford,everest,obdb-second-generation-2018-facelift,Second Generation (2018 Facelift),2018,2020,https://github.com/OBDb/Ford-Everest,a503df0f505426ce5ab926ef80cebd4613a2c428
+ford,everest,obdb-second-generation-2021-facelift,Second Generation (2021 Facelift),2021,2022,https://github.com/OBDb/Ford-Everest,a503df0f505426ce5ab926ef80cebd4613a2c428
+ford,everest,obdb-third-generation,Third Generation,2022,,https://github.com/OBDb/Ford-Everest,a503df0f505426ce5ab926ef80cebd4613a2c428
+ford,fiesta,obdb-third-generation-mk3,Third Generation (MK3),1989,1997,https://github.com/OBDb/Ford-Fiesta,25ee11df528386b8dc2f1c27f5094affe52327af
+ford,fiesta,obdb-fourth-generation-mk4,Fourth Generation (MK4),1995,2002,https://github.com/OBDb/Ford-Fiesta,25ee11df528386b8dc2f1c27f5094affe52327af
+ford,fiesta,obdb-fifth-generation-mk5,Fifth Generation (MK5),2002,2008,https://github.com/OBDb/Ford-Fiesta,25ee11df528386b8dc2f1c27f5094affe52327af
+ford,fiesta,obdb-sixth-generation-mk6,Sixth Generation (MK6),2008,2013,https://github.com/OBDb/Ford-Fiesta,25ee11df528386b8dc2f1c27f5094affe52327af
+ford,fiesta,obdb-sixth-generation-mk6-facelift,Sixth Generation (MK6 Facelift),2013,2019,https://github.com/OBDb/Ford-Fiesta,25ee11df528386b8dc2f1c27f5094affe52327af
+ford,fiesta,obdb-seventh-generation-mk7,Seventh Generation (MK7),2017,2023,https://github.com/OBDb/Ford-Fiesta,25ee11df528386b8dc2f1c27f5094affe52327af
+ford,focus,obdb-first-generation-c170-1998,First Generation (C170; 1998),1998,2007,https://github.com/OBDb/Ford-Focus,28b508a0f0c021c84ccb6550e190e3ce6a06efff
+ford,focus,obdb-second-generation-c307-c170-2004,Second Generation (C307/C170; 2004),2004,2011,https://github.com/OBDb/Ford-Focus,28b508a0f0c021c84ccb6550e190e3ce6a06efff
+ford,focus,obdb-third-generation-c346-2010,Third Generation (C346; 2010),2011,2018,https://github.com/OBDb/Ford-Focus,28b508a0f0c021c84ccb6550e190e3ce6a06efff
+ford,focus,obdb-fourth-generation-c519-2018,Fourth Generation (C519; 2018),2018,2025,https://github.com/OBDb/Ford-Focus,28b508a0f0c021c84ccb6550e190e3ce6a06efff
+ford,ranger,obdb-second-generation-north-america,Second Generation (North America),1993,1997,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-third-generation-north-america,Third Generation (North America),1998,2000,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-third-generation-north-america-first-facelift,Third Generation (North America) First Facelift,2001,2003,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-third-generation-north-america-second-facelift,Third Generation (North America) Second Facelift,2004,2006,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-third-generation-north-america-third-facelift,Third Generation (North America) Third Facelift,2006,2012,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-global-ranger-mazda-based-first-generation,Global Ranger (Mazda-based) First Generation,1998,2002,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-global-ranger-mazda-based-first-generation-facelift,Global Ranger (Mazda-based) First Generation Facelift,2002,2006,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-global-ranger-mazda-based-second-generation,Global Ranger (Mazda-based) Second Generation,2006,2009,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-global-ranger-mazda-based-second-generation-facelift,Global Ranger (Mazda-based) Second Generation Facelift,2009,2011,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-global-ranger-t6-first-generation,Global Ranger (T6) First Generation,2011,2022,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-global-ranger-t6-first-generation-facelift,Global Ranger (T6) First Generation Facelift,2015,2022,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+ford,ranger,obdb-global-ranger-t6-2-second-generation,Global Ranger (T6.2) Second Generation,2022,,https://github.com/OBDb/Ford-Ranger,b8f23c5dd1ada7a319b484027ad0d15d00f1faa7
+haval,jolion,obdb-first-generation,First Generation,2021,2024,https://github.com/OBDb/Haval-Jolion,08d194b3e6a5c5fdec6fb20ecd6c934516d792e2
+haval,jolion,obdb-first-generation-facelift,First Generation Facelift,2024,,https://github.com/OBDb/Haval-Jolion,08d194b3e6a5c5fdec6fb20ecd6c934516d792e2
+honda,accord,obdb-fifth-generation,Fifth Generation,1994,1998,https://github.com/OBDb/Honda-Accord,15a8892fd637fee64b55c5cff7c635722dfe55a9
+honda,accord,obdb-sixth-generation,Sixth Generation,1998,2002,https://github.com/OBDb/Honda-Accord,15a8892fd637fee64b55c5cff7c635722dfe55a9
+honda,accord,obdb-seventh-generation,Seventh Generation,2003,2007,https://github.com/OBDb/Honda-Accord,15a8892fd637fee64b55c5cff7c635722dfe55a9
+honda,accord,obdb-eighth-generation,Eighth Generation,2008,2012,https://github.com/OBDb/Honda-Accord,15a8892fd637fee64b55c5cff7c635722dfe55a9
+honda,accord,obdb-ninth-generation,Ninth Generation,2013,2017,https://github.com/OBDb/Honda-Accord,15a8892fd637fee64b55c5cff7c635722dfe55a9
+honda,accord,obdb-tenth-generation,Tenth Generation,2018,2022,https://github.com/OBDb/Honda-Accord,15a8892fd637fee64b55c5cff7c635722dfe55a9
+honda,accord,obdb-eleventh-generation,Eleventh Generation,2023,,https://github.com/OBDb/Honda-Accord,15a8892fd637fee64b55c5cff7c635722dfe55a9
+honda,brio,obdb-first-generation,First Generation,2011,2020,https://github.com/OBDb/Honda-Brio,8333c5d937f5aecb0e2d5bf599eff151f2562991
+honda,brio,obdb-second-generation,Second Generation,2018,,https://github.com/OBDb/Honda-Brio,8333c5d937f5aecb0e2d5bf599eff151f2562991
+honda,cr-v,obdb-first-generation-pre-facelift,First Generation (Pre-Facelift),1995,1999,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-v,obdb-first-generation-facelift,First Generation (Facelift),1999,2001,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-v,obdb-second-generation-pre-facelift,Second Generation (Pre-Facelift),2001,2004,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-v,obdb-second-generation-facelift,Second Generation (Facelift),2004,2006,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-v,obdb-third-generation-pre-facelift,Third Generation (Pre-Facelift),2007,2009,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-v,obdb-third-generation-facelift,Third Generation (Facelift),2010,2012,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-v,obdb-fourth-generation-pre-facelift,Fourth Generation (Pre-Facelift),2012,2014,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-v,obdb-fourth-generation-facelift,Fourth Generation (Facelift),2015,2017,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-v,obdb-fifth-generation-pre-facelift,Fifth Generation (Pre-Facelift),2017,2019,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-v,obdb-fifth-generation-facelift,Fifth Generation (Facelift),2020,2023,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-v,obdb-sixth-generation,Sixth Generation,2023,,https://github.com/OBDb/Honda-CR-V,d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1
+honda,cr-z,obdb-first-generation,First Generation,2010,2012,https://github.com/OBDb/Honda-CR-Z,92200a46135692de905a6e6a7cc2811582380150
+honda,cr-z,obdb-first-generation-2013-facelift,First Generation (2013 Facelift),2013,2016,https://github.com/OBDb/Honda-CR-Z,92200a46135692de905a6e6a7cc2811582380150
+honda,city,obdb-third-generation,Third Generation,1996,2002,https://github.com/OBDb/Honda-City,8d36419a4ef94948a7f2537a13587fb952192a27
+honda,city,obdb-fourth-generation,Fourth Generation,2002,2008,https://github.com/OBDb/Honda-City,8d36419a4ef94948a7f2537a13587fb952192a27
+honda,city,obdb-fifth-generation,Fifth Generation,2008,2013,https://github.com/OBDb/Honda-City,8d36419a4ef94948a7f2537a13587fb952192a27
+honda,city,obdb-sixth-generation,Sixth Generation,2013,2023,https://github.com/OBDb/Honda-City,8d36419a4ef94948a7f2537a13587fb952192a27
+honda,city,obdb-seventh-generation,Seventh Generation,2019,,https://github.com/OBDb/Honda-City,8d36419a4ef94948a7f2537a13587fb952192a27
+honda,civic,obdb-sixth-generation,Sixth Generation,1996,2000,https://github.com/OBDb/Honda-Civic,83eded7da9fd005213dc41f3a99efd85b70c3254
+honda,civic,obdb-seventh-generation,Seventh Generation,2001,2005,https://github.com/OBDb/Honda-Civic,83eded7da9fd005213dc41f3a99efd85b70c3254
+honda,civic,obdb-eighth-generation,Eighth Generation,2006,2011,https://github.com/OBDb/Honda-Civic,83eded7da9fd005213dc41f3a99efd85b70c3254
+honda,civic,obdb-ninth-generation,Ninth Generation,2012,2015,https://github.com/OBDb/Honda-Civic,83eded7da9fd005213dc41f3a99efd85b70c3254
+honda,civic,obdb-tenth-generation,Tenth Generation,2016,2021,https://github.com/OBDb/Honda-Civic,83eded7da9fd005213dc41f3a99efd85b70c3254
+honda,civic,obdb-eleventh-generation,Eleventh Generation,2022,,https://github.com/OBDb/Honda-Civic,83eded7da9fd005213dc41f3a99efd85b70c3254
+honda,hr-v,obdb-first-generation,First Generation,1998,2006,https://github.com/OBDb/Honda-HR-V,44b89f9e26f6e065d9ee247e32096808d36fb98c
+honda,hr-v,obdb-second-generation,Second Generation,2013,2022,https://github.com/OBDb/Honda-HR-V,44b89f9e26f6e065d9ee247e32096808d36fb98c
+honda,hr-v,obdb-third-generation-global-except-north-america,Third Generation (Global except North America),2021,,https://github.com/OBDb/Honda-HR-V,44b89f9e26f6e065d9ee247e32096808d36fb98c
+honda,hr-v,obdb-third-generation-north-america,Third Generation (North America),2022,,https://github.com/OBDb/Honda-HR-V,44b89f9e26f6e065d9ee247e32096808d36fb98c
+honda,jazz,obdb-first-generation,First Generation,2001,2008,https://github.com/OBDb/Honda-Jazz,b8bf1d2d19f8df1ae8558da754a1708935ee47b3
+honda,jazz,obdb-second-generation,Second Generation,2007,2014,https://github.com/OBDb/Honda-Jazz,b8bf1d2d19f8df1ae8558da754a1708935ee47b3
+honda,jazz,obdb-third-generation,Third Generation,2013,2022,https://github.com/OBDb/Honda-Jazz,b8bf1d2d19f8df1ae8558da754a1708935ee47b3
+honda,jazz,obdb-fourth-generation,Fourth Generation,2020,,https://github.com/OBDb/Honda-Jazz,b8bf1d2d19f8df1ae8558da754a1708935ee47b3
+honda,odyssey,obdb-first-generation,First Generation,1994,1998,https://github.com/OBDb/Honda-Odyssey,e4d9a30cbec55ffe6124e1eda5ec6b6867956cb0
+honda,odyssey,obdb-second-generation,Second Generation,1999,2004,https://github.com/OBDb/Honda-Odyssey,e4d9a30cbec55ffe6124e1eda5ec6b6867956cb0
+honda,odyssey,obdb-third-generation,Third Generation,2005,2010,https://github.com/OBDb/Honda-Odyssey,e4d9a30cbec55ffe6124e1eda5ec6b6867956cb0
+honda,odyssey,obdb-fourth-generation,Fourth Generation,2011,2017,https://github.com/OBDb/Honda-Odyssey,e4d9a30cbec55ffe6124e1eda5ec6b6867956cb0
+honda,odyssey,obdb-fifth-generation,Fifth Generation,2018,,https://github.com/OBDb/Honda-Odyssey,e4d9a30cbec55ffe6124e1eda5ec6b6867956cb0
+honda,wr-v,obdb-first-generation-gl,First Generation (GL),2017,2023,https://github.com/OBDb/Honda-WRV,1b1c607922093cd947181b0c0a9039e99ee88138
+honda,wr-v,obdb-second-generation-dg4,Second Generation (DG4),2022,,https://github.com/OBDb/Honda-WRV,1b1c607922093cd947181b0c0a9039e99ee88138
+kia,picanto,obdb-first-generation-sa,First Generation (SA),2003,2011,https://github.com/OBDb/Kia-Picanto,77c1f64645d48c9fc41cde08a40f620180fe6f95
+kia,picanto,obdb-second-generation-ta,Second Generation (TA),2011,2017,https://github.com/OBDb/Kia-Picanto,77c1f64645d48c9fc41cde08a40f620180fe6f95
+kia,picanto,obdb-third-generation-ja,Third Generation (JA),2017,,https://github.com/OBDb/Kia-Picanto,77c1f64645d48c9fc41cde08a40f620180fe6f95
+kia,soul,obdb-first-generation-am,First Generation (AM),2008,2013,https://github.com/OBDb/Kia-Soul,86e5fdf21038dcae1d937efeef5c1050864da6b5
+kia,soul,obdb-second-generation-ps,Second Generation (PS),2013,2016,https://github.com/OBDb/Kia-Soul,86e5fdf21038dcae1d937efeef5c1050864da6b5
+kia,soul,obdb-second-generation-ps-facelift,Second Generation (PS) Facelift,2017,2018,https://github.com/OBDb/Kia-Soul,86e5fdf21038dcae1d937efeef5c1050864da6b5
+kia,soul,obdb-third-generation-sk3,Third Generation (SK3),2018,2022,https://github.com/OBDb/Kia-Soul,86e5fdf21038dcae1d937efeef5c1050864da6b5
+kia,soul,obdb-third-generation-sk3-facelift,Third Generation (SK3) Facelift,2023,2025,https://github.com/OBDb/Kia-Soul,86e5fdf21038dcae1d937efeef5c1050864da6b5
+mg,hs,obdb-first-generation,First Generation,2018,2022,https://github.com/OBDb/MG-HS,e2e84cc8f23b803318028e872adf91d233b5131e
+mg,hs,obdb-first-generation-facelift,First Generation (Facelift),2023,2024,https://github.com/OBDb/MG-HS,e2e84cc8f23b803318028e872adf91d233b5131e
+mg,hs,obdb-second-generation,Second Generation,2024,,https://github.com/OBDb/MG-HS,e2e84cc8f23b803318028e872adf91d233b5131e
+mg,mg5,obdb-second-generation,Second Generation,2020,,https://github.com/OBDb/MG-MG5,ae3afa54c1049be4e408065dee78dd7bb2502ff5
+mg,zs,obdb-first-generation,First Generation,2017,2020,https://github.com/OBDb/MG-ZS,224cd000e67fbb2d68f5df28c9df00f6a10ce605
+mg,zs,obdb-second-generation-facelift,Second Generation (Facelift),2021,,https://github.com/OBDb/MG-ZS,224cd000e67fbb2d68f5df28c9df00f6a10ce605
+mazda,cx-3,obdb-first-generation-dk-pre-facelift,First Generation (DK) Pre-Facelift,2015,2018,https://github.com/OBDb/Mazda-CX-3,0ef7d66d7a4bdafee8fd1e3c09419453f47f07f7
+mazda,cx-3,obdb-first-generation-dk-facelift,First Generation (DK) Facelift,2018,,https://github.com/OBDb/Mazda-CX-3,0ef7d66d7a4bdafee8fd1e3c09419453f47f07f7
+mazda,cx-30,obdb-first-generation-dm,First Generation (DM),2020,,https://github.com/OBDb/Mazda-CX-30,ad7829be650a242f52fb2e557d09306a9145c053
+mazda,cx-5,obdb-first-generation-ke,First Generation (KE),2013,2015,https://github.com/OBDb/Mazda-CX-5,e76c378b496fee0db9166b020c372cd309c89e6f
+mazda,cx-5,obdb-first-generation-ke-facelift,First Generation (KE) Facelift,2016,2016,https://github.com/OBDb/Mazda-CX-5,e76c378b496fee0db9166b020c372cd309c89e6f
+mazda,cx-5,obdb-second-generation-kf,Second Generation (KF),2017,2021,https://github.com/OBDb/Mazda-CX-5,e76c378b496fee0db9166b020c372cd309c89e6f
+mazda,cx-5,obdb-second-generation-kf-facelift,Second Generation (KF) Facelift,2022,2025,https://github.com/OBDb/Mazda-CX-5,e76c378b496fee0db9166b020c372cd309c89e6f
+mazda,cx-5,obdb-third-generation-ki,Third Generation (KI),2025,,https://github.com/OBDb/Mazda-CX-5,e76c378b496fee0db9166b020c372cd309c89e6f
+mazda,cx-7,obdb-first-generation-pre-facelift-er,First Generation Pre-Facelift (ER),2007,2009,https://github.com/OBDb/Mazda-CX-7,93b12873a9a499725f2b23946fff8673fba8d9de
+mazda,cx-7,obdb-first-generation-facelift-er,First Generation Facelift (ER),2010,2012,https://github.com/OBDb/Mazda-CX-7,93b12873a9a499725f2b23946fff8673fba8d9de
+mazda,cx-9,obdb-first-generation-tb,First Generation (TB),2006,2015,https://github.com/OBDb/Mazda-CX-9,ffe89ed2004e02a31c38dd56830ab5955737eef9
+mazda,cx-9,obdb-second-generation-tc,Second Generation (TC),2016,2024,https://github.com/OBDb/Mazda-CX-9,ffe89ed2004e02a31c38dd56830ab5955737eef9
+mazda,mx-5,obdb-first-generation-na,First Generation (NA),1989,1997,https://github.com/OBDb/Mazda-MX-5,7e2f689a304612c6ddac37f56dc7762d8760586d
+mazda,mx-5,obdb-second-generation-nb,Second Generation (NB),1998,2005,https://github.com/OBDb/Mazda-MX-5,7e2f689a304612c6ddac37f56dc7762d8760586d
+mazda,mx-5,obdb-third-generation-nc,Third Generation (NC),2005,2015,https://github.com/OBDb/Mazda-MX-5,7e2f689a304612c6ddac37f56dc7762d8760586d
+mazda,mx-5,obdb-fourth-generation-nd,Fourth Generation (ND),2016,,https://github.com/OBDb/Mazda-MX-5,7e2f689a304612c6ddac37f56dc7762d8760586d
+mercedes-benz,w203,obdb-w203,W203,2001,2007,https://github.com/OBDb/Mercedes-Benz-C-Class,986ef2248be95ff8695e2619d6a748277e99a597
+mercedes-benz,w211,obdb-third-generation-w211,Third Generation (W211),2002,2009,https://github.com/OBDb/Mercedes-Benz-E-Class,599203302424095a13c0e2b74687f115f74974e5
+mitsubishi,mirage,obdb-fifth-generation,Fifth Generation,1995,2003,https://github.com/OBDb/Mitsubishi-Mirage,e8e09893771d8ad1135c10bd499f5dcfc9a57739
+mitsubishi,mirage,obdb-sixth-generation,Sixth Generation,2012,,https://github.com/OBDb/Mitsubishi-Mirage,e8e09893771d8ad1135c10bd499f5dcfc9a57739
+mitsubishi,outlander,obdb-first-generation-cu-ze-zf,First Generation (CU/ZE/ZF),2001,2008,https://github.com/OBDb/Mitsubishi-Outlander,be037bb47f2efa1db77a3da603f0940ad9a4d1f3
+mitsubishi,outlander,obdb-second-generation-cw-zg-zh,Second Generation (CW/ZG/ZH),2006,2012,https://github.com/OBDb/Mitsubishi-Outlander,be037bb47f2efa1db77a3da603f0940ad9a4d1f3
+mitsubishi,outlander,obdb-third-generation-gf-gg-zj-zk-zl,Third Generation (GF/GG/ZJ/ZK/ZL),2012,2024,https://github.com/OBDb/Mitsubishi-Outlander,be037bb47f2efa1db77a3da603f0940ad9a4d1f3
+mitsubishi,outlander,obdb-fourth-generation-gm-gn-zm,Fourth Generation (GM/GN/ZM),2021,,https://github.com/OBDb/Mitsubishi-Outlander,be037bb47f2efa1db77a3da603f0940ad9a4d1f3
+mitsubishi,triton,obdb-second-generation-k00-k10-k20-k30,Second Generation (K00/K10/K20/K30),1986,1996,https://github.com/OBDb/Mitsubishi-Triton,12703c920a11b52717b070379442e1f2c4b04cd7
+mitsubishi,triton,obdb-third-generation-k50-k60-k70,Third Generation (K50/K60/K70),1996,2006,https://github.com/OBDb/Mitsubishi-Triton,12703c920a11b52717b070379442e1f2c4b04cd7
+mitsubishi,triton,obdb-fourth-generation-ka-kb,Fourth Generation (KA/KB),2005,2014,https://github.com/OBDb/Mitsubishi-Triton,12703c920a11b52717b070379442e1f2c4b04cd7
+mitsubishi,triton,obdb-fifth-generation-kj-kk-kl,Fifth Generation (KJ/KK/KL),2014,2023,https://github.com/OBDb/Mitsubishi-Triton,12703c920a11b52717b070379442e1f2c4b04cd7
+mitsubishi,triton,obdb-sixth-generation-lc-mv,Sixth Generation (LC/MV),2023,,https://github.com/OBDb/Mitsubishi-Triton,12703c920a11b52717b070379442e1f2c4b04cd7
+nissan,juke,obdb-first-generation-f15,First Generation (F15),2011,2019,https://github.com/OBDb/Nissan-Juke,4f343b5e014ff4c863a6499bb3e7d25512d2aeaf
+nissan,juke,obdb-second-generation-f16,Second Generation (F16),2020,,https://github.com/OBDb/Nissan-Juke,4f343b5e014ff4c863a6499bb3e7d25512d2aeaf
+nissan,kicks,obdb-first-generation-p15,First Generation (P15),2016,2020,https://github.com/OBDb/Nissan-Kicks,8804502016f12d123cc8ca62d911250221cc7d98
+nissan,kicks,obdb-first-generation-p15-facelift,First Generation (P15 Facelift),2021,2024,https://github.com/OBDb/Nissan-Kicks,8804502016f12d123cc8ca62d911250221cc7d98
+nissan,kicks,obdb-second-generation-p16,Second Generation (P16),2025,,https://github.com/OBDb/Nissan-Kicks,8804502016f12d123cc8ca62d911250221cc7d98
+nissan,navara,obdb-d21-series,D21 Series,1985,1997,https://github.com/OBDb/Nissan-Navara,2fcf3879c01bc799416327d6e59054572e9a6053
+nissan,navara,obdb-first-generation-d22,First Generation (D22),1997,2004,https://github.com/OBDb/Nissan-Navara,2fcf3879c01bc799416327d6e59054572e9a6053
+nissan,navara,obdb-first-generation-d22-facelift,First Generation (D22 Facelift),2004,2015,https://github.com/OBDb/Nissan-Navara,2fcf3879c01bc799416327d6e59054572e9a6053
+nissan,navara,obdb-second-generation-d40,Second Generation (D40),2005,2014,https://github.com/OBDb/Nissan-Navara,2fcf3879c01bc799416327d6e59054572e9a6053
+nissan,navara,obdb-second-generation-d40-facelift,Second Generation (D40 Facelift),2015,2021,https://github.com/OBDb/Nissan-Navara,2fcf3879c01bc799416327d6e59054572e9a6053
+nissan,navara,obdb-third-generation-d23,Third Generation (D23),2014,2020,https://github.com/OBDb/Nissan-Navara,2fcf3879c01bc799416327d6e59054572e9a6053
+nissan,navara,obdb-third-generation-d23-facelift,Third Generation (D23 Facelift),2021,,https://github.com/OBDb/Nissan-Navara,2fcf3879c01bc799416327d6e59054572e9a6053
+nissan,navara,obdb-fourth-generation-d27,Fourth Generation (D27),2025,,https://github.com/OBDb/Nissan-Navara,2fcf3879c01bc799416327d6e59054572e9a6053
+nissan,pulsar,obdb-fifth-generation-n15,Fifth Generation (N15),1995,2000,https://github.com/OBDb/Nissan-Pulsar,b557be25f5ad8c68610bd5b85ee51bc2d0fb639f
+nissan,pulsar,obdb-sixth-generation-n16,Sixth Generation (N16),2001,2005,https://github.com/OBDb/Nissan-Pulsar,b557be25f5ad8c68610bd5b85ee51bc2d0fb639f
+nissan,pulsar,obdb-c13-generation-european-market,C13 Generation (European Market),2014,2018,https://github.com/OBDb/Nissan-Pulsar,b557be25f5ad8c68610bd5b85ee51bc2d0fb639f
+nissan,x-trail,obdb-first-generation-t30,First Generation (T30),2001,2007,https://github.com/OBDb/Nissan-X-Trail,dc724f11d8cae87685f36e254c7ce3311f1b34ef
+nissan,x-trail,obdb-second-generation-t31,Second Generation (T31),2008,2013,https://github.com/OBDb/Nissan-X-Trail,dc724f11d8cae87685f36e254c7ce3311f1b34ef
+nissan,x-trail,obdb-third-generation-t32,Third Generation (T32),2014,2021,https://github.com/OBDb/Nissan-X-Trail,dc724f11d8cae87685f36e254c7ce3311f1b34ef
+nissan,x-trail,obdb-fourth-generation-t33,Fourth Generation (T33),2022,,https://github.com/OBDb/Nissan-X-Trail,dc724f11d8cae87685f36e254c7ce3311f1b34ef
+peugeot,207,obdb-first-generation,First Generation,2006,2012,https://github.com/OBDb/Peugeot-207,6e8422f99a7a0386f8540c3760754754d49270ef
+peugeot,207,obdb-first-generation-facelift,First Generation (Facelift),2009,2014,https://github.com/OBDb/Peugeot-207,6e8422f99a7a0386f8540c3760754754d49270ef
+peugeot,208,obdb-first-generation,First Generation,2012,2019,https://github.com/OBDb/Peugeot-208,44f62fa3eb53c2c445de0aeb956d895d03267d98
+peugeot,208,obdb-second-generation,Second Generation,2020,,https://github.com/OBDb/Peugeot-208,44f62fa3eb53c2c445de0aeb956d895d03267d98
+peugeot,3008,obdb-first-generation-t84,First Generation (T84),2008,2016,https://github.com/OBDb/Peugeot-3008,c6a9dfabe90d2c9ec5c92443bda691e8985fe85d
+peugeot,3008,obdb-second-generation-p84,Second Generation (P84),2016,2024,https://github.com/OBDb/Peugeot-3008,c6a9dfabe90d2c9ec5c92443bda691e8985fe85d
+peugeot,3008,obdb-third-generation-p64,Third Generation (P64),2024,,https://github.com/OBDb/Peugeot-3008,c6a9dfabe90d2c9ec5c92443bda691e8985fe85d
+peugeot,307,obdb-first-generation-pre-facelift,First Generation (Pre-Facelift),2001,2005,https://github.com/OBDb/Peugeot-307,fb484140145dc5da974ad118bf350055deb481d8
+peugeot,307,obdb-first-generation-facelift,First Generation (Facelift),2005,2008,https://github.com/OBDb/Peugeot-307,fb484140145dc5da974ad118bf350055deb481d8
+peugeot,308,obdb-first-generation-t7,First Generation (T7),2007,2021,https://github.com/OBDb/Peugeot-308,2912c48bb6fe8d1436761dcaef8fdab7ac212048
+peugeot,308,obdb-second-generation-t9,Second Generation (T9),2013,2021,https://github.com/OBDb/Peugeot-308,2912c48bb6fe8d1436761dcaef8fdab7ac212048
+peugeot,308,obdb-third-generation-p5,Third Generation (P5),2021,,https://github.com/OBDb/Peugeot-308,2912c48bb6fe8d1436761dcaef8fdab7ac212048
+peugeot,407,obdb-first-generation-d2,First Generation (D2),2004,2011,https://github.com/OBDb/Peugeot-407,03243d2602caa1a16efe15802f32c2093df5217d
+peugeot,408,obdb-first-generation-t7,First Generation (T7),2010,2022,https://github.com/OBDb/Peugeot-408,6dd823cfb0461bc49d960d5999ec52e223ad7d69
+peugeot,408,obdb-second-generation-p54,Second Generation (P54),2022,,https://github.com/OBDb/Peugeot-408,6dd823cfb0461bc49d960d5999ec52e223ad7d69
+peugeot,5008,obdb-first-generation-t87,First Generation (T87),2009,2017,https://github.com/OBDb/Peugeot-5008,b11f0cf5e3802ae866cc97e99defdff3e8b7651a
+peugeot,5008,obdb-second-generation-p87,Second Generation (P87),2017,2024,https://github.com/OBDb/Peugeot-5008,b11f0cf5e3802ae866cc97e99defdff3e8b7651a
+peugeot,5008,obdb-third-generation-p64,Third Generation (P64),2024,,https://github.com/OBDb/Peugeot-5008,b11f0cf5e3802ae866cc97e99defdff3e8b7651a
+subaru,brz,obdb-first-generation-zc6,First Generation (ZC6),2012,2020,https://github.com/OBDb/Subaru-BRZ,bff2c15f8ee3b7e7bc69cacc7eeed4b0f9b16829
+subaru,brz,obdb-second-generation-zd8,Second Generation (ZD8),2022,,https://github.com/OBDb/Subaru-BRZ,bff2c15f8ee3b7e7bc69cacc7eeed4b0f9b16829
+subaru,forester,obdb-first-generation-sf,First Generation (SF),1997,2002,https://github.com/OBDb/Subaru-Forester,21655dba9fc2f91b8130db1836da22aa7ed82604
+subaru,forester,obdb-second-generation-sg,Second Generation (SG),2003,2008,https://github.com/OBDb/Subaru-Forester,21655dba9fc2f91b8130db1836da22aa7ed82604
+subaru,forester,obdb-third-generation-sh,Third Generation (SH),2009,2013,https://github.com/OBDb/Subaru-Forester,21655dba9fc2f91b8130db1836da22aa7ed82604
+subaru,forester,obdb-fourth-generation-sj,Fourth Generation (SJ),2014,2018,https://github.com/OBDb/Subaru-Forester,21655dba9fc2f91b8130db1836da22aa7ed82604
+subaru,forester,obdb-fifth-generation-sk,Fifth Generation (SK),2019,2024,https://github.com/OBDb/Subaru-Forester,21655dba9fc2f91b8130db1836da22aa7ed82604
+subaru,forester,obdb-sixth-generation-sl,Sixth Generation (SL),2025,,https://github.com/OBDb/Subaru-Forester,21655dba9fc2f91b8130db1836da22aa7ed82604
+subaru,legacy,obdb-second-generation-bd-bg-bk,Second Generation (BD/BG/BK),1995,1999,https://github.com/OBDb/Subaru-Legacy,a4e45a7300ee112f16e79721b2234520a006c73b
+subaru,legacy,obdb-third-generation-be-bh,Third Generation (BE/BH),2000,2004,https://github.com/OBDb/Subaru-Legacy,a4e45a7300ee112f16e79721b2234520a006c73b
+subaru,legacy,obdb-fourth-generation-bl-bp,Fourth Generation (BL/BP),2005,2009,https://github.com/OBDb/Subaru-Legacy,a4e45a7300ee112f16e79721b2234520a006c73b
+subaru,legacy,obdb-fifth-generation-bm-br,Fifth Generation (BM/BR),2010,2014,https://github.com/OBDb/Subaru-Legacy,a4e45a7300ee112f16e79721b2234520a006c73b
+subaru,legacy,obdb-sixth-generation-bn-bs,Sixth Generation (BN/BS),2015,2019,https://github.com/OBDb/Subaru-Legacy,a4e45a7300ee112f16e79721b2234520a006c73b
+subaru,legacy,obdb-seventh-generation-bw,Seventh Generation (BW),2020,2025,https://github.com/OBDb/Subaru-Legacy,a4e45a7300ee112f16e79721b2234520a006c73b
+subaru,outback,obdb-first-generation-bg,First Generation (BG),1994,1999,https://github.com/OBDb/Subaru-Outback,b42e7877a8e9191830ef5c6b9f6989b5278592f1
+subaru,outback,obdb-second-generation-bh,Second Generation (BH),2000,2004,https://github.com/OBDb/Subaru-Outback,b42e7877a8e9191830ef5c6b9f6989b5278592f1
+subaru,outback,obdb-third-generation-bp,Third Generation (BP),2005,2009,https://github.com/OBDb/Subaru-Outback,b42e7877a8e9191830ef5c6b9f6989b5278592f1
+subaru,outback,obdb-fourth-generation-br,Fourth Generation (BR),2010,2014,https://github.com/OBDb/Subaru-Outback,b42e7877a8e9191830ef5c6b9f6989b5278592f1
+subaru,outback,obdb-fifth-generation-bs,Fifth Generation (BS),2015,2019,https://github.com/OBDb/Subaru-Outback,b42e7877a8e9191830ef5c6b9f6989b5278592f1
+subaru,outback,obdb-sixth-generation-bt,Sixth Generation (BT),2020,2025,https://github.com/OBDb/Subaru-Outback,b42e7877a8e9191830ef5c6b9f6989b5278592f1
+subaru,outback,obdb-seventh-generation-bu,Seventh Generation (BU),2025,,https://github.com/OBDb/Subaru-Outback,b42e7877a8e9191830ef5c6b9f6989b5278592f1
+suzuki,swift,obdb-third-generation-cultus-ht51-81,Third Generation (Cultus/HT51/81),1994,2000,https://github.com/OBDb/Suzuki-Swift,5623f430dd81584019071df5d049aa7645b56edb
+suzuki,swift,obdb-fourth-generation-ht,Fourth Generation (HT),2000,2004,https://github.com/OBDb/Suzuki-Swift,5623f430dd81584019071df5d049aa7645b56edb
+suzuki,swift,obdb-fifth-generation-zc11-21-31-71-rs-series,Fifth Generation (ZC11/21/31/71/RS series),2004,2010,https://github.com/OBDb/Suzuki-Swift,5623f430dd81584019071df5d049aa7645b56edb
+suzuki,swift,obdb-sixth-generation-zc72-82-32-azg-series,Sixth Generation (ZC72/82/32/AZG series),2010,2017,https://github.com/OBDb/Suzuki-Swift,5623f430dd81584019071df5d049aa7645b56edb
+suzuki,swift,obdb-seventh-generation-zc13-33-43-53-83-93-a2l-series,Seventh Generation (ZC13/33/43/53/83/93/A2L series),2017,2024,https://github.com/OBDb/Suzuki-Swift,5623f430dd81584019071df5d049aa7645b56edb
+suzuki,swift,obdb-eighth-generation-aol-series,Eighth Generation (AOL series),2023,,https://github.com/OBDb/Suzuki-Swift,5623f430dd81584019071df5d049aa7645b56edb
+toyota,aygo,obdb-first-generation-ab10-ab20-ab30,First Generation (AB10/AB20/AB30),2005,2014,https://github.com/OBDb/Toyota-Aygo,8a6c515a87fc3930a6d62d91342e1b4f35c876d3
+toyota,aygo,obdb-second-generation-ab40,Second Generation (AB40),2014,2022,https://github.com/OBDb/Toyota-Aygo,8a6c515a87fc3930a6d62d91342e1b4f35c876d3
+toyota,aygo,obdb-third-generation-aygo-x,Third Generation (Aygo X),2022,,https://github.com/OBDb/Toyota-Aygo,8a6c515a87fc3930a6d62d91342e1b4f35c876d3
+toyota,c-hr,obdb-first-generation,First Generation,2016,2023,https://github.com/OBDb/Toyota-C-HR,caa2ddfd55c82e7edc0eb9895bcbf4b7d3777007
+toyota,c-hr,obdb-second-generation,Second Generation,2023,,https://github.com/OBDb/Toyota-C-HR,caa2ddfd55c82e7edc0eb9895bcbf4b7d3777007
+toyota,camry,obdb-third-generation-v30-xv10,Third Generation (V30/XV10),1991,1996,https://github.com/OBDb/Toyota-Camry,bacab1dd74b02be6b76e6a419cc568e8f76f48fa
+toyota,camry,obdb-fourth-generation-xv20,Fourth Generation (XV20),1996,2001,https://github.com/OBDb/Toyota-Camry,bacab1dd74b02be6b76e6a419cc568e8f76f48fa
+toyota,camry,obdb-fifth-generation-xv30,Fifth Generation (XV30),2001,2006,https://github.com/OBDb/Toyota-Camry,bacab1dd74b02be6b76e6a419cc568e8f76f48fa
+toyota,camry,obdb-sixth-generation-xv40,Sixth Generation (XV40),2006,2011,https://github.com/OBDb/Toyota-Camry,bacab1dd74b02be6b76e6a419cc568e8f76f48fa
+toyota,camry,obdb-seventh-generation-xv50,Seventh Generation (XV50),2011,2017,https://github.com/OBDb/Toyota-Camry,bacab1dd74b02be6b76e6a419cc568e8f76f48fa
+toyota,camry,obdb-eighth-generation-xv70,Eighth Generation (XV70),2017,,https://github.com/OBDb/Toyota-Camry,bacab1dd74b02be6b76e6a419cc568e8f76f48fa
+toyota,celica,obdb-sixth-generation,Sixth Generation,1993,1999,https://github.com/OBDb/Toyota-Celica,11990cf1f9157d8590bdeb68a074fad300e020bc
+toyota,celica,obdb-seventh-generation,Seventh Generation,1999,2006,https://github.com/OBDb/Toyota-Celica,11990cf1f9157d8590bdeb68a074fad300e020bc
+toyota,corolla-cross,obdb-first-generation,First Generation,2020,,https://github.com/OBDb/Toyota-Corolla-Cross,7bf0084eb16052be49d7e760427d86f053871a4d
+toyota,fortuner,obdb-first-generation-an50-an60,First Generation (AN50/AN60),2005,2008,https://github.com/OBDb/Toyota-Fortuner,b48b60926d6a147be56a6257ad8d7c0a47d7bc9c
+toyota,fortuner,obdb-first-generation-an50-an60-first-facelift,First Generation (AN50/AN60) - First Facelift,2008,2011,https://github.com/OBDb/Toyota-Fortuner,b48b60926d6a147be56a6257ad8d7c0a47d7bc9c
+toyota,fortuner,obdb-first-generation-an50-an60-second-facelift,First Generation (AN50/AN60) - Second Facelift,2011,2015,https://github.com/OBDb/Toyota-Fortuner,b48b60926d6a147be56a6257ad8d7c0a47d7bc9c
+toyota,fortuner,obdb-second-generation-an150-an160,Second Generation (AN150/AN160),2015,2020,https://github.com/OBDb/Toyota-Fortuner,b48b60926d6a147be56a6257ad8d7c0a47d7bc9c
+toyota,fortuner,obdb-second-generation-an150-an160-facelift,Second Generation (AN150/AN160) - Facelift,2020,,https://github.com/OBDb/Toyota-Fortuner,b48b60926d6a147be56a6257ad8d7c0a47d7bc9c
+toyota,gt86,obdb-first-generation-zn6,First Generation (ZN6),2012,2021,https://github.com/OBDb/Toyota-GT86,d34664a331c6207f287441a7a358b96fc76d6400
+toyota,hilux-revo,obdb-eighth-generation-an120-an130,Eighth Generation (AN120/AN130),2015,,https://github.com/OBDb/Toyota-Hilux,b499e5b12472f4142fbdd629ada7da6522c3a706
+toyota,hilux-tiger-d4d,obdb-sixth-generation-n140-n150-n160-n170,Sixth Generation (N140/N150/N160/N170),1997,2005,https://github.com/OBDb/Toyota-Hilux,b499e5b12472f4142fbdd629ada7da6522c3a706
+toyota,hilux-vigo,obdb-seventh-generation-an10-an20-an30,Seventh Generation (AN10/AN20/AN30),2004,2015,https://github.com/OBDb/Toyota-Hilux,b499e5b12472f4142fbdd629ada7da6522c3a706
+toyota,hilux-vigo-champ,obdb-seventh-generation-an10-an20-an30,Seventh Generation (AN10/AN20/AN30),2004,2015,https://github.com/OBDb/Toyota-Hilux,b499e5b12472f4142fbdd629ada7da6522c3a706
+toyota,innova,obdb-first-generation-an40,First Generation (AN40),2004,2015,https://github.com/OBDb/Toyota-Innova,53e3dff4c79fd7b7811350b07f669e12f102f7fd
+toyota,innova,obdb-second-generation-an140,Second Generation (AN140),2015,,https://github.com/OBDb/Toyota-Innova,53e3dff4c79fd7b7811350b07f669e12f102f7fd
+toyota,innova,obdb-third-generation-innova-hycross-zenix,Third Generation (Innova Hycross/Zenix),2022,,https://github.com/OBDb/Toyota-Innova,53e3dff4c79fd7b7811350b07f669e12f102f7fd
+toyota,prius,obdb-first-generation-xw10,First Generation (XW10),1997,2003,https://github.com/OBDb/Toyota-Prius,72b8cc3dc99b1520d78dac0103bcc44ea7f8f116
+toyota,prius,obdb-second-generation-xw20,Second Generation (XW20),2003,2009,https://github.com/OBDb/Toyota-Prius,72b8cc3dc99b1520d78dac0103bcc44ea7f8f116
+toyota,prius,obdb-third-generation-xw30,Third Generation (XW30),2009,2015,https://github.com/OBDb/Toyota-Prius,72b8cc3dc99b1520d78dac0103bcc44ea7f8f116
+toyota,prius,obdb-fourth-generation-xw50,Fourth Generation (XW50),2015,2022,https://github.com/OBDb/Toyota-Prius,72b8cc3dc99b1520d78dac0103bcc44ea7f8f116
+toyota,prius,obdb-fifth-generation-xw60,Fifth Generation (XW60),2023,,https://github.com/OBDb/Toyota-Prius,72b8cc3dc99b1520d78dac0103bcc44ea7f8f116
+toyota,veloz,obdb-first-generation-w100,First Generation (W100),2021,,https://github.com/OBDb/Toyota-Veloz,a3608669e6f43ee62c21c6f5b133af72bdb829b1
+toyota,vios,obdb-second-generation-xp90,Second Generation (XP90),2007,2013,https://github.com/OBDb/Toyota-Vios,e7028afbec584a9986662b029661aa20e654855b
+toyota,vios,obdb-third-generation-xp150,Third Generation (XP150),2013,2023,https://github.com/OBDb/Toyota-Vios,e7028afbec584a9986662b029661aa20e654855b
+toyota,yaris,obdb-first-generation-xp10,First Generation (XP10),1998,2005,https://github.com/OBDb/Toyota-Yaris,034d3db88054f5aba9ccf1bad5a544bdc9944bd3
+toyota,yaris,obdb-second-generation-xp90,Second Generation (XP90),2005,2013,https://github.com/OBDb/Toyota-Yaris,034d3db88054f5aba9ccf1bad5a544bdc9944bd3
+toyota,yaris,obdb-third-generation-xp130,Third Generation (XP130),2011,2020,https://github.com/OBDb/Toyota-Yaris,034d3db88054f5aba9ccf1bad5a544bdc9944bd3
+toyota,yaris,obdb-fourth-generation-xp210,Fourth Generation (XP210),2020,,https://github.com/OBDb/Toyota-Yaris,034d3db88054f5aba9ccf1bad5a544bdc9944bd3
+volvo,s60,obdb-first-generation,First Generation,2000,2009,https://github.com/OBDb/Volvo-S60,8f953fd6006fa6c50d3bd2dec9ba2f5e8582a12c
+volvo,s60,obdb-second-generation,Second Generation,2010,2018,https://github.com/OBDb/Volvo-S60,8f953fd6006fa6c50d3bd2dec9ba2f5e8582a12c
+volvo,s60,obdb-third-generation,Third Generation,2019,2024,https://github.com/OBDb/Volvo-S60,8f953fd6006fa6c50d3bd2dec9ba2f5e8582a12c
+volvo,s80,obdb-second-generation,Second Generation,2007,2016,https://github.com/OBDb/Volvo-S80,71f3227c71925bfd52bb1887c4525a4b85f44ae2
+volvo,v60,obdb-first-generation,First Generation,2010,2014,https://github.com/OBDb/Volvo-V60,a11c284ac6e999ad193e2dcede5b8fe6148776d4
+volvo,v60,obdb-first-generation-facelift,First Generation (Facelift),2014,2018,https://github.com/OBDb/Volvo-V60,a11c284ac6e999ad193e2dcede5b8fe6148776d4
+volvo,v60,obdb-second-generation,Second Generation,2018,,https://github.com/OBDb/Volvo-V60,a11c284ac6e999ad193e2dcede5b8fe6148776d4
+volvo,v70,obdb-first-generation,First Generation,1997,2000,https://github.com/OBDb/Volvo-V70,60f53773e64510cfb0ec9705bdc6f7339d2d556f
+volvo,v70,obdb-second-generation,Second Generation,2001,2007,https://github.com/OBDb/Volvo-V70,60f53773e64510cfb0ec9705bdc6f7339d2d556f
+volvo,v70,obdb-third-generation,Third Generation,2008,2016,https://github.com/OBDb/Volvo-V70,60f53773e64510cfb0ec9705bdc6f7339d2d556f
+volvo,xc40,obdb-first-generation-pre-facelift,First Generation (Pre-Facelift),2017,2022,https://github.com/OBDb/Volvo-XC40,7382238176a3b2e6af233fd980d29fee68f3ed81
+volvo,xc40,obdb-first-generation-facelift,First Generation (Facelift),2023,,https://github.com/OBDb/Volvo-XC40,7382238176a3b2e6af233fd980d29fee68f3ed81
+volvo,xc60,obdb-first-generation,First Generation,2008,2017,https://github.com/OBDb/Volvo-XC60,506b10261f2617223219b422898f9a7c61db486d
+volvo,xc60,obdb-second-generation,Second Generation,2018,,https://github.com/OBDb/Volvo-XC60,506b10261f2617223219b422898f9a7c61db486d
+volvo,xc90,obdb-first-generation-2002,First Generation (2002),2002,2014,https://github.com/OBDb/Volvo-XC90,f0597dd842e5592ad671a5109e65337db9966c88
+volvo,xc90,obdb-first-generation-2007-facelift,First Generation (2007 Facelift),2007,2011,https://github.com/OBDb/Volvo-XC90,f0597dd842e5592ad671a5109e65337db9966c88
+volvo,xc90,obdb-first-generation-2012-facelift,First Generation (2012 Facelift),2012,2014,https://github.com/OBDb/Volvo-XC90,f0597dd842e5592ad671a5109e65337db9966c88
+volvo,xc90,obdb-second-generation-2015,Second Generation (2015),2015,2019,https://github.com/OBDb/Volvo-XC90,f0597dd842e5592ad671a5109e65337db9966c88
+volvo,xc90,obdb-second-generation-2020-facelift,Second Generation (2020 Facelift),2020,2024,https://github.com/OBDb/Volvo-XC90,f0597dd842e5592ad671a5109e65337db9966c88
+volvo,xc90,obdb-second-generation-2025-facelift,Second Generation (2025 Facelift),2025,,https://github.com/OBDb/Volvo-XC90,f0597dd842e5592ad671a5109e65337db9966c88

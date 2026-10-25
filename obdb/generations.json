@@ -1,0 +1,4177 @@
+{
+ "schemaVersion": 1,
+ "license": "CC-BY-SA-4.0",
+ "attribution": "Vehicle generation names and years adapted from OBDb (https://github.com/OBDb), licensed CC BY-SA 4.0.",
+ "records": [
+  {
+   "makeId": "bmw",
+   "modelId": "e39",
+   "generationId": "obdb-fourth-generation-e39",
+   "name": "Fourth Generation (E39)",
+   "yearStart": 1995,
+   "yearEnd": 2004,
+   "source": {
+    "repo": "https://github.com/OBDb/BMW-5-Series",
+    "commit": "4c3d5ced3a0a91c4a0c3c3ceaed8cdc40e13bb58",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (E39)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "bmw",
+   "modelId": "e46",
+   "generationId": "obdb-fourth-generation-e46",
+   "name": "Fourth Generation (E46)",
+   "yearStart": 1998,
+   "yearEnd": 2006,
+   "source": {
+    "repo": "https://github.com/OBDb/BMW-3-Series",
+    "commit": "3148c1c568ee305390c6356585d1c2b4beb04ab8",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (E46)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "bmw",
+   "modelId": "e60",
+   "generationId": "obdb-fifth-generation-e60-e61",
+   "name": "Fifth Generation (E60/E61)",
+   "yearStart": 2003,
+   "yearEnd": 2010,
+   "source": {
+    "repo": "https://github.com/OBDb/BMW-5-Series",
+    "commit": "4c3d5ced3a0a91c4a0c3c3ceaed8cdc40e13bb58",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (E60/E61)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "bmw",
+   "modelId": "e90",
+   "generationId": "obdb-fifth-generation-e90-e91-e92-e93",
+   "name": "Fifth Generation (E90/E91/E92/E93)",
+   "yearStart": 2004,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/BMW-3-Series",
+    "commit": "3148c1c568ee305390c6356585d1c2b4beb04ab8",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (E90/E91/E92/E93)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "aveo",
+   "generationId": "obdb-first-generation-t200",
+   "name": "First Generation (T200)",
+   "yearStart": 2002,
+   "yearEnd": 2005,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Aveo",
+    "commit": "f8bcc2b06212681a0fee8175f6c11f01ac714cdc",
+    "file": "generations.yaml",
+    "originalName": "First Generation (T200)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "aveo",
+   "generationId": "obdb-first-generation-t250-facelift",
+   "name": "First Generation (T250 Facelift)",
+   "yearStart": 2005,
+   "yearEnd": 2011,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Aveo",
+    "commit": "f8bcc2b06212681a0fee8175f6c11f01ac714cdc",
+    "file": "generations.yaml",
+    "originalName": "First Generation (T250 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "aveo",
+   "generationId": "obdb-second-generation-t300",
+   "name": "Second Generation (T300)",
+   "yearStart": 2011,
+   "yearEnd": 2016,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Aveo",
+    "commit": "f8bcc2b06212681a0fee8175f6c11f01ac714cdc",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (T300)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "aveo",
+   "generationId": "obdb-second-generation-t300-facelift",
+   "name": "Second Generation (T300 Facelift)",
+   "yearStart": 2016,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Aveo",
+    "commit": "f8bcc2b06212681a0fee8175f6c11f01ac714cdc",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (T300 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "aveo",
+   "generationId": "obdb-chevrolet-sail-based-aveo-mexico-central-america",
+   "name": "Chevrolet Sail-based Aveo (Mexico/Central America)",
+   "yearStart": 2017,
+   "yearEnd": 2023,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Aveo",
+    "commit": "f8bcc2b06212681a0fee8175f6c11f01ac714cdc",
+    "file": "generations.yaml",
+    "originalName": "Chevrolet Sail-based Aveo (Mexico/Central America)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "aveo",
+   "generationId": "obdb-third-generation-310c",
+   "name": "Third Generation (310C)",
+   "yearStart": 2023,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Aveo",
+    "commit": "f8bcc2b06212681a0fee8175f6c11f01ac714cdc",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (310C)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "colorado",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2003,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Colorado",
+    "commit": "b2a02dfadea7e715270b2d4fc18b0de8445cfea3",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "colorado",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2012,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Colorado",
+    "commit": "b2a02dfadea7e715270b2d4fc18b0de8445cfea3",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "colorado",
+   "generationId": "obdb-third-generation",
+   "name": "Third Generation",
+   "yearStart": 2023,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Colorado",
+    "commit": "b2a02dfadea7e715270b2d4fc18b0de8445cfea3",
+    "file": "generations.yaml",
+    "originalName": "Third Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "cruze",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2008,
+   "yearEnd": 2016,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Cruze",
+    "commit": "4c2e5f5d45b67d0cb6c52077661baa5e459406e5",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "cruze",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2015,
+   "yearEnd": 2019,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Cruze",
+    "commit": "4c2e5f5d45b67d0cb6c52077661baa5e459406e5",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "sonic",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2012,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Sonic",
+    "commit": "83ce220ca37487b5a5be7d5a4fb20f633e229a38",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "spin",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2012,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Spin",
+    "commit": "ce35fdefa96aef2ced321cfa0625093586675b53",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "trailblazer",
+   "generationId": "obdb-first-generation-kc-2002-2005",
+   "name": "First Generation (KC; 2002-2005)",
+   "yearStart": 2002,
+   "yearEnd": 2005,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Trailblazer",
+    "commit": "c3b0883f72002b8864970269d7a5a8f82630de48",
+    "file": "generations.yaml",
+    "originalName": "First Generation (KC; 2002-2005)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "trailblazer",
+   "generationId": "obdb-first-generation-kc-2006-2009-facelifted",
+   "name": "First Generation (KC; 2006-2009) - Facelifted",
+   "yearStart": 2006,
+   "yearEnd": 2009,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Trailblazer",
+    "commit": "c3b0883f72002b8864970269d7a5a8f82630de48",
+    "file": "generations.yaml",
+    "originalName": "First Generation (KC; 2006-2009) - Facelifted",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "trailblazer",
+   "generationId": "obdb-second-generation-rg-2012-2020-international-markets",
+   "name": "Second Generation (RG; 2012-2020) - International Markets",
+   "yearStart": 2012,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Trailblazer",
+    "commit": "c3b0883f72002b8864970269d7a5a8f82630de48",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (RG; 2012-2020) - International Markets",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "trailblazer",
+   "generationId": "obdb-third-generation-9bxx-2021-2023",
+   "name": "Third Generation (9BXX; 2021-2023)",
+   "yearStart": 2021,
+   "yearEnd": 2023,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Trailblazer",
+    "commit": "c3b0883f72002b8864970269d7a5a8f82630de48",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (9BXX; 2021-2023)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "chevrolet",
+   "modelId": "trailblazer",
+   "generationId": "obdb-third-generation-9bxx-2024-facelifted",
+   "name": "Third Generation (9BXX; 2024+) - Facelifted",
+   "yearStart": 2024,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Chevrolet-Trailblazer",
+    "commit": "c3b0883f72002b8864970269d7a5a8f82630de48",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (9BXX; 2024+) - Facelifted",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ecosport",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2003,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-EcoSport",
+    "commit": "ef367ce978a6cde3633762af07af70cad8c3b7ba",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ecosport",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2012,
+   "yearEnd": 2017,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-EcoSport",
+    "commit": "ef367ce978a6cde3633762af07af70cad8c3b7ba",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ecosport",
+   "generationId": "obdb-second-generation-2017-facelift",
+   "name": "Second Generation (2017 Facelift)",
+   "yearStart": 2017,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-EcoSport",
+    "commit": "ef367ce978a6cde3633762af07af70cad8c3b7ba",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (2017 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "escape",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2001,
+   "yearEnd": 2007,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Escape",
+    "commit": "4a8476cc88ebabf52cea58ca2dec7a519c8573e0",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "escape",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2008,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Escape",
+    "commit": "4a8476cc88ebabf52cea58ca2dec7a519c8573e0",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "escape",
+   "generationId": "obdb-third-generation",
+   "name": "Third Generation",
+   "yearStart": 2013,
+   "yearEnd": 2016,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Escape",
+    "commit": "4a8476cc88ebabf52cea58ca2dec7a519c8573e0",
+    "file": "generations.yaml",
+    "originalName": "Third Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "escape",
+   "generationId": "obdb-third-generation-2017-facelift",
+   "name": "Third Generation (2017 Facelift)",
+   "yearStart": 2017,
+   "yearEnd": 2019,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Escape",
+    "commit": "4a8476cc88ebabf52cea58ca2dec7a519c8573e0",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (2017 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "escape",
+   "generationId": "obdb-fourth-generation",
+   "name": "Fourth Generation",
+   "yearStart": 2020,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Escape",
+    "commit": "4a8476cc88ebabf52cea58ca2dec7a519c8573e0",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "escape",
+   "generationId": "obdb-fourth-generation-2023-facelift",
+   "name": "Fourth Generation (2023 Facelift)",
+   "yearStart": 2023,
+   "yearEnd": 2026,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Escape",
+    "commit": "4a8476cc88ebabf52cea58ca2dec7a519c8573e0",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (2023 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "everest",
+   "generationId": "obdb-first-generation-2003-2006",
+   "name": "First Generation (2003-2006)",
+   "yearStart": 2003,
+   "yearEnd": 2006,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Everest",
+    "commit": "a503df0f505426ce5ab926ef80cebd4613a2c428",
+    "file": "generations.yaml",
+    "originalName": "First Generation (2003-2006)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "everest",
+   "generationId": "obdb-first-generation-2007-facelift",
+   "name": "First Generation (2007 Facelift)",
+   "yearStart": 2007,
+   "yearEnd": 2008,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Everest",
+    "commit": "a503df0f505426ce5ab926ef80cebd4613a2c428",
+    "file": "generations.yaml",
+    "originalName": "First Generation (2007 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "everest",
+   "generationId": "obdb-first-generation-2009-facelift",
+   "name": "First Generation (2009 Facelift)",
+   "yearStart": 2009,
+   "yearEnd": 2011,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Everest",
+    "commit": "a503df0f505426ce5ab926ef80cebd4613a2c428",
+    "file": "generations.yaml",
+    "originalName": "First Generation (2009 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "everest",
+   "generationId": "obdb-first-generation-2012-2015",
+   "name": "First Generation (2012-2015)",
+   "yearStart": 2012,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Everest",
+    "commit": "a503df0f505426ce5ab926ef80cebd4613a2c428",
+    "file": "generations.yaml",
+    "originalName": "First Generation (2012-2015)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "everest",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2015,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Everest",
+    "commit": "a503df0f505426ce5ab926ef80cebd4613a2c428",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "everest",
+   "generationId": "obdb-second-generation-2018-facelift",
+   "name": "Second Generation (2018 Facelift)",
+   "yearStart": 2018,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Everest",
+    "commit": "a503df0f505426ce5ab926ef80cebd4613a2c428",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (2018 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "everest",
+   "generationId": "obdb-second-generation-2021-facelift",
+   "name": "Second Generation (2021 Facelift)",
+   "yearStart": 2021,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Everest",
+    "commit": "a503df0f505426ce5ab926ef80cebd4613a2c428",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (2021 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "everest",
+   "generationId": "obdb-third-generation",
+   "name": "Third Generation",
+   "yearStart": 2022,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Everest",
+    "commit": "a503df0f505426ce5ab926ef80cebd4613a2c428",
+    "file": "generations.yaml",
+    "originalName": "Third Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "fiesta",
+   "generationId": "obdb-third-generation-mk3",
+   "name": "Third Generation (MK3)",
+   "yearStart": 1989,
+   "yearEnd": 1997,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Fiesta",
+    "commit": "25ee11df528386b8dc2f1c27f5094affe52327af",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (MK3)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "fiesta",
+   "generationId": "obdb-fourth-generation-mk4",
+   "name": "Fourth Generation (MK4)",
+   "yearStart": 1995,
+   "yearEnd": 2002,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Fiesta",
+    "commit": "25ee11df528386b8dc2f1c27f5094affe52327af",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (MK4)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "fiesta",
+   "generationId": "obdb-fifth-generation-mk5",
+   "name": "Fifth Generation (MK5)",
+   "yearStart": 2002,
+   "yearEnd": 2008,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Fiesta",
+    "commit": "25ee11df528386b8dc2f1c27f5094affe52327af",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (MK5)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "fiesta",
+   "generationId": "obdb-sixth-generation-mk6",
+   "name": "Sixth Generation (MK6)",
+   "yearStart": 2008,
+   "yearEnd": 2013,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Fiesta",
+    "commit": "25ee11df528386b8dc2f1c27f5094affe52327af",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation (MK6)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "fiesta",
+   "generationId": "obdb-sixth-generation-mk6-facelift",
+   "name": "Sixth Generation (MK6 Facelift)",
+   "yearStart": 2013,
+   "yearEnd": 2019,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Fiesta",
+    "commit": "25ee11df528386b8dc2f1c27f5094affe52327af",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation (MK6 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "fiesta",
+   "generationId": "obdb-seventh-generation-mk7",
+   "name": "Seventh Generation (MK7)",
+   "yearStart": 2017,
+   "yearEnd": 2023,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Fiesta",
+    "commit": "25ee11df528386b8dc2f1c27f5094affe52327af",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation (MK7)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "focus",
+   "generationId": "obdb-first-generation-c170-1998",
+   "name": "First Generation (C170; 1998)",
+   "yearStart": 1998,
+   "yearEnd": 2007,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Focus",
+    "commit": "28b508a0f0c021c84ccb6550e190e3ce6a06efff",
+    "file": "generations.yaml",
+    "originalName": "First Generation (C170; 1998)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "focus",
+   "generationId": "obdb-second-generation-c307-c170-2004",
+   "name": "Second Generation (C307/C170; 2004)",
+   "yearStart": 2004,
+   "yearEnd": 2011,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Focus",
+    "commit": "28b508a0f0c021c84ccb6550e190e3ce6a06efff",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (C307/C170; 2004)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "focus",
+   "generationId": "obdb-third-generation-c346-2010",
+   "name": "Third Generation (C346; 2010)",
+   "yearStart": 2011,
+   "yearEnd": 2018,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Focus",
+    "commit": "28b508a0f0c021c84ccb6550e190e3ce6a06efff",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (C346; 2010)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "focus",
+   "generationId": "obdb-fourth-generation-c519-2018",
+   "name": "Fourth Generation (C519; 2018)",
+   "yearStart": 2018,
+   "yearEnd": 2025,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Focus",
+    "commit": "28b508a0f0c021c84ccb6550e190e3ce6a06efff",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (C519; 2018)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-second-generation-north-america",
+   "name": "Second Generation (North America)",
+   "yearStart": 1993,
+   "yearEnd": 1997,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (North America)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-third-generation-north-america",
+   "name": "Third Generation (North America)",
+   "yearStart": 1998,
+   "yearEnd": 2000,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (North America)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-third-generation-north-america-first-facelift",
+   "name": "Third Generation (North America) First Facelift",
+   "yearStart": 2001,
+   "yearEnd": 2003,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (North America) First Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-third-generation-north-america-second-facelift",
+   "name": "Third Generation (North America) Second Facelift",
+   "yearStart": 2004,
+   "yearEnd": 2006,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (North America) Second Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-third-generation-north-america-third-facelift",
+   "name": "Third Generation (North America) Third Facelift",
+   "yearStart": 2006,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (North America) Third Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-global-ranger-mazda-based-first-generation",
+   "name": "Global Ranger (Mazda-based) First Generation",
+   "yearStart": 1998,
+   "yearEnd": 2002,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Global Ranger (Mazda-based) First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-global-ranger-mazda-based-first-generation-facelift",
+   "name": "Global Ranger (Mazda-based) First Generation Facelift",
+   "yearStart": 2002,
+   "yearEnd": 2006,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Global Ranger (Mazda-based) First Generation Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-global-ranger-mazda-based-second-generation",
+   "name": "Global Ranger (Mazda-based) Second Generation",
+   "yearStart": 2006,
+   "yearEnd": 2009,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Global Ranger (Mazda-based) Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-global-ranger-mazda-based-second-generation-facelift",
+   "name": "Global Ranger (Mazda-based) Second Generation Facelift",
+   "yearStart": 2009,
+   "yearEnd": 2011,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Global Ranger (Mazda-based) Second Generation Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-global-ranger-t6-first-generation",
+   "name": "Global Ranger (T6) First Generation",
+   "yearStart": 2011,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Global Ranger (T6) First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-global-ranger-t6-first-generation-facelift",
+   "name": "Global Ranger (T6) First Generation Facelift",
+   "yearStart": 2015,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Global Ranger (T6) First Generation Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "ford",
+   "modelId": "ranger",
+   "generationId": "obdb-global-ranger-t6-2-second-generation",
+   "name": "Global Ranger (T6.2) Second Generation",
+   "yearStart": 2022,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Ford-Ranger",
+    "commit": "b8f23c5dd1ada7a319b484027ad0d15d00f1faa7",
+    "file": "generations.yaml",
+    "originalName": "Global Ranger (T6.2) Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "haval",
+   "modelId": "jolion",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2021,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/Haval-Jolion",
+    "commit": "08d194b3e6a5c5fdec6fb20ecd6c934516d792e2",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "haval",
+   "modelId": "jolion",
+   "generationId": "obdb-first-generation-facelift",
+   "name": "First Generation Facelift",
+   "yearStart": 2024,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Haval-Jolion",
+    "commit": "08d194b3e6a5c5fdec6fb20ecd6c934516d792e2",
+    "file": "generations.yaml",
+    "originalName": "First Generation Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "accord",
+   "generationId": "obdb-fifth-generation",
+   "name": "Fifth Generation",
+   "yearStart": 1994,
+   "yearEnd": 1998,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Accord",
+    "commit": "15a8892fd637fee64b55c5cff7c635722dfe55a9",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "accord",
+   "generationId": "obdb-sixth-generation",
+   "name": "Sixth Generation",
+   "yearStart": 1998,
+   "yearEnd": 2002,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Accord",
+    "commit": "15a8892fd637fee64b55c5cff7c635722dfe55a9",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "accord",
+   "generationId": "obdb-seventh-generation",
+   "name": "Seventh Generation",
+   "yearStart": 2003,
+   "yearEnd": 2007,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Accord",
+    "commit": "15a8892fd637fee64b55c5cff7c635722dfe55a9",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "accord",
+   "generationId": "obdb-eighth-generation",
+   "name": "Eighth Generation",
+   "yearStart": 2008,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Accord",
+    "commit": "15a8892fd637fee64b55c5cff7c635722dfe55a9",
+    "file": "generations.yaml",
+    "originalName": "Eighth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "accord",
+   "generationId": "obdb-ninth-generation",
+   "name": "Ninth Generation",
+   "yearStart": 2013,
+   "yearEnd": 2017,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Accord",
+    "commit": "15a8892fd637fee64b55c5cff7c635722dfe55a9",
+    "file": "generations.yaml",
+    "originalName": "Ninth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "accord",
+   "generationId": "obdb-tenth-generation",
+   "name": "Tenth Generation",
+   "yearStart": 2018,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Accord",
+    "commit": "15a8892fd637fee64b55c5cff7c635722dfe55a9",
+    "file": "generations.yaml",
+    "originalName": "Tenth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "accord",
+   "generationId": "obdb-eleventh-generation",
+   "name": "Eleventh Generation",
+   "yearStart": 2023,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Accord",
+    "commit": "15a8892fd637fee64b55c5cff7c635722dfe55a9",
+    "file": "generations.yaml",
+    "originalName": "Eleventh Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "brio",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2011,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Brio",
+    "commit": "8333c5d937f5aecb0e2d5bf599eff151f2562991",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "brio",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2018,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Brio",
+    "commit": "8333c5d937f5aecb0e2d5bf599eff151f2562991",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-first-generation-pre-facelift",
+   "name": "First Generation (Pre-Facelift)",
+   "yearStart": 1995,
+   "yearEnd": 1999,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "First Generation (Pre-Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-first-generation-facelift",
+   "name": "First Generation (Facelift)",
+   "yearStart": 1999,
+   "yearEnd": 2001,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "First Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-second-generation-pre-facelift",
+   "name": "Second Generation (Pre-Facelift)",
+   "yearStart": 2001,
+   "yearEnd": 2004,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (Pre-Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-second-generation-facelift",
+   "name": "Second Generation (Facelift)",
+   "yearStart": 2004,
+   "yearEnd": 2006,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-third-generation-pre-facelift",
+   "name": "Third Generation (Pre-Facelift)",
+   "yearStart": 2007,
+   "yearEnd": 2009,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (Pre-Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-third-generation-facelift",
+   "name": "Third Generation (Facelift)",
+   "yearStart": 2010,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-fourth-generation-pre-facelift",
+   "name": "Fourth Generation (Pre-Facelift)",
+   "yearStart": 2012,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (Pre-Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-fourth-generation-facelift",
+   "name": "Fourth Generation (Facelift)",
+   "yearStart": 2015,
+   "yearEnd": 2017,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-fifth-generation-pre-facelift",
+   "name": "Fifth Generation (Pre-Facelift)",
+   "yearStart": 2017,
+   "yearEnd": 2019,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (Pre-Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-fifth-generation-facelift",
+   "name": "Fifth Generation (Facelift)",
+   "yearStart": 2020,
+   "yearEnd": 2023,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-v",
+   "generationId": "obdb-sixth-generation",
+   "name": "Sixth Generation",
+   "yearStart": 2023,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-V",
+    "commit": "d07b3b8b47ccddd55d8845dfc2e77c4f18923ad1",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-z",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2010,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-Z",
+    "commit": "92200a46135692de905a6e6a7cc2811582380150",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "cr-z",
+   "generationId": "obdb-first-generation-2013-facelift",
+   "name": "First Generation (2013 Facelift)",
+   "yearStart": 2013,
+   "yearEnd": 2016,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-CR-Z",
+    "commit": "92200a46135692de905a6e6a7cc2811582380150",
+    "file": "generations.yaml",
+    "originalName": "First Generation (2013 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "city",
+   "generationId": "obdb-third-generation",
+   "name": "Third Generation",
+   "yearStart": 1996,
+   "yearEnd": 2002,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-City",
+    "commit": "8d36419a4ef94948a7f2537a13587fb952192a27",
+    "file": "generations.yaml",
+    "originalName": "Third Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "city",
+   "generationId": "obdb-fourth-generation",
+   "name": "Fourth Generation",
+   "yearStart": 2002,
+   "yearEnd": 2008,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-City",
+    "commit": "8d36419a4ef94948a7f2537a13587fb952192a27",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "city",
+   "generationId": "obdb-fifth-generation",
+   "name": "Fifth Generation",
+   "yearStart": 2008,
+   "yearEnd": 2013,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-City",
+    "commit": "8d36419a4ef94948a7f2537a13587fb952192a27",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "city",
+   "generationId": "obdb-sixth-generation",
+   "name": "Sixth Generation",
+   "yearStart": 2013,
+   "yearEnd": 2023,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-City",
+    "commit": "8d36419a4ef94948a7f2537a13587fb952192a27",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "city",
+   "generationId": "obdb-seventh-generation",
+   "name": "Seventh Generation",
+   "yearStart": 2019,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-City",
+    "commit": "8d36419a4ef94948a7f2537a13587fb952192a27",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "civic",
+   "generationId": "obdb-sixth-generation",
+   "name": "Sixth Generation",
+   "yearStart": 1996,
+   "yearEnd": 2000,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Civic",
+    "commit": "83eded7da9fd005213dc41f3a99efd85b70c3254",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "civic",
+   "generationId": "obdb-seventh-generation",
+   "name": "Seventh Generation",
+   "yearStart": 2001,
+   "yearEnd": 2005,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Civic",
+    "commit": "83eded7da9fd005213dc41f3a99efd85b70c3254",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "civic",
+   "generationId": "obdb-eighth-generation",
+   "name": "Eighth Generation",
+   "yearStart": 2006,
+   "yearEnd": 2011,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Civic",
+    "commit": "83eded7da9fd005213dc41f3a99efd85b70c3254",
+    "file": "generations.yaml",
+    "originalName": "Eighth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "civic",
+   "generationId": "obdb-ninth-generation",
+   "name": "Ninth Generation",
+   "yearStart": 2012,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Civic",
+    "commit": "83eded7da9fd005213dc41f3a99efd85b70c3254",
+    "file": "generations.yaml",
+    "originalName": "Ninth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "civic",
+   "generationId": "obdb-tenth-generation",
+   "name": "Tenth Generation",
+   "yearStart": 2016,
+   "yearEnd": 2021,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Civic",
+    "commit": "83eded7da9fd005213dc41f3a99efd85b70c3254",
+    "file": "generations.yaml",
+    "originalName": "Tenth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "civic",
+   "generationId": "obdb-eleventh-generation",
+   "name": "Eleventh Generation",
+   "yearStart": 2022,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Civic",
+    "commit": "83eded7da9fd005213dc41f3a99efd85b70c3254",
+    "file": "generations.yaml",
+    "originalName": "Eleventh Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "hr-v",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 1998,
+   "yearEnd": 2006,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-HR-V",
+    "commit": "44b89f9e26f6e065d9ee247e32096808d36fb98c",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "hr-v",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2013,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-HR-V",
+    "commit": "44b89f9e26f6e065d9ee247e32096808d36fb98c",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "hr-v",
+   "generationId": "obdb-third-generation-global-except-north-america",
+   "name": "Third Generation (Global except North America)",
+   "yearStart": 2021,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-HR-V",
+    "commit": "44b89f9e26f6e065d9ee247e32096808d36fb98c",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (Global except North America)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "hr-v",
+   "generationId": "obdb-third-generation-north-america",
+   "name": "Third Generation (North America)",
+   "yearStart": 2022,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-HR-V",
+    "commit": "44b89f9e26f6e065d9ee247e32096808d36fb98c",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (North America)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "jazz",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2001,
+   "yearEnd": 2008,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Jazz",
+    "commit": "b8bf1d2d19f8df1ae8558da754a1708935ee47b3",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "jazz",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2007,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Jazz",
+    "commit": "b8bf1d2d19f8df1ae8558da754a1708935ee47b3",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "jazz",
+   "generationId": "obdb-third-generation",
+   "name": "Third Generation",
+   "yearStart": 2013,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Jazz",
+    "commit": "b8bf1d2d19f8df1ae8558da754a1708935ee47b3",
+    "file": "generations.yaml",
+    "originalName": "Third Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "jazz",
+   "generationId": "obdb-fourth-generation",
+   "name": "Fourth Generation",
+   "yearStart": 2020,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Jazz",
+    "commit": "b8bf1d2d19f8df1ae8558da754a1708935ee47b3",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "odyssey",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 1994,
+   "yearEnd": 1998,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Odyssey",
+    "commit": "e4d9a30cbec55ffe6124e1eda5ec6b6867956cb0",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "odyssey",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 1999,
+   "yearEnd": 2004,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Odyssey",
+    "commit": "e4d9a30cbec55ffe6124e1eda5ec6b6867956cb0",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "odyssey",
+   "generationId": "obdb-third-generation",
+   "name": "Third Generation",
+   "yearStart": 2005,
+   "yearEnd": 2010,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Odyssey",
+    "commit": "e4d9a30cbec55ffe6124e1eda5ec6b6867956cb0",
+    "file": "generations.yaml",
+    "originalName": "Third Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "odyssey",
+   "generationId": "obdb-fourth-generation",
+   "name": "Fourth Generation",
+   "yearStart": 2011,
+   "yearEnd": 2017,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Odyssey",
+    "commit": "e4d9a30cbec55ffe6124e1eda5ec6b6867956cb0",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "odyssey",
+   "generationId": "obdb-fifth-generation",
+   "name": "Fifth Generation",
+   "yearStart": 2018,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-Odyssey",
+    "commit": "e4d9a30cbec55ffe6124e1eda5ec6b6867956cb0",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "wr-v",
+   "generationId": "obdb-first-generation-gl",
+   "name": "First Generation (GL)",
+   "yearStart": 2017,
+   "yearEnd": 2023,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-WRV",
+    "commit": "1b1c607922093cd947181b0c0a9039e99ee88138",
+    "file": "generations.yaml",
+    "originalName": "First Generation (GL)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "honda",
+   "modelId": "wr-v",
+   "generationId": "obdb-second-generation-dg4",
+   "name": "Second Generation (DG4)",
+   "yearStart": 2022,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Honda-WRV",
+    "commit": "1b1c607922093cd947181b0c0a9039e99ee88138",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (DG4)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "kia",
+   "modelId": "picanto",
+   "generationId": "obdb-first-generation-sa",
+   "name": "First Generation (SA)",
+   "yearStart": 2003,
+   "yearEnd": 2011,
+   "source": {
+    "repo": "https://github.com/OBDb/Kia-Picanto",
+    "commit": "77c1f64645d48c9fc41cde08a40f620180fe6f95",
+    "file": "generations.yaml",
+    "originalName": "First Generation (SA)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "kia",
+   "modelId": "picanto",
+   "generationId": "obdb-second-generation-ta",
+   "name": "Second Generation (TA)",
+   "yearStart": 2011,
+   "yearEnd": 2017,
+   "source": {
+    "repo": "https://github.com/OBDb/Kia-Picanto",
+    "commit": "77c1f64645d48c9fc41cde08a40f620180fe6f95",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (TA)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "kia",
+   "modelId": "picanto",
+   "generationId": "obdb-third-generation-ja",
+   "name": "Third Generation (JA)",
+   "yearStart": 2017,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Kia-Picanto",
+    "commit": "77c1f64645d48c9fc41cde08a40f620180fe6f95",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (JA)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "kia",
+   "modelId": "soul",
+   "generationId": "obdb-first-generation-am",
+   "name": "First Generation (AM)",
+   "yearStart": 2008,
+   "yearEnd": 2013,
+   "source": {
+    "repo": "https://github.com/OBDb/Kia-Soul",
+    "commit": "86e5fdf21038dcae1d937efeef5c1050864da6b5",
+    "file": "generations.yaml",
+    "originalName": "First Generation (AM)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "kia",
+   "modelId": "soul",
+   "generationId": "obdb-second-generation-ps",
+   "name": "Second Generation (PS)",
+   "yearStart": 2013,
+   "yearEnd": 2016,
+   "source": {
+    "repo": "https://github.com/OBDb/Kia-Soul",
+    "commit": "86e5fdf21038dcae1d937efeef5c1050864da6b5",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (PS)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "kia",
+   "modelId": "soul",
+   "generationId": "obdb-second-generation-ps-facelift",
+   "name": "Second Generation (PS) Facelift",
+   "yearStart": 2017,
+   "yearEnd": 2018,
+   "source": {
+    "repo": "https://github.com/OBDb/Kia-Soul",
+    "commit": "86e5fdf21038dcae1d937efeef5c1050864da6b5",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (PS) Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "kia",
+   "modelId": "soul",
+   "generationId": "obdb-third-generation-sk3",
+   "name": "Third Generation (SK3)",
+   "yearStart": 2018,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Kia-Soul",
+    "commit": "86e5fdf21038dcae1d937efeef5c1050864da6b5",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (SK3)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "kia",
+   "modelId": "soul",
+   "generationId": "obdb-third-generation-sk3-facelift",
+   "name": "Third Generation (SK3) Facelift",
+   "yearStart": 2023,
+   "yearEnd": 2025,
+   "source": {
+    "repo": "https://github.com/OBDb/Kia-Soul",
+    "commit": "86e5fdf21038dcae1d937efeef5c1050864da6b5",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (SK3) Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mg",
+   "modelId": "hs",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2018,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/MG-HS",
+    "commit": "e2e84cc8f23b803318028e872adf91d233b5131e",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mg",
+   "modelId": "hs",
+   "generationId": "obdb-first-generation-facelift",
+   "name": "First Generation (Facelift)",
+   "yearStart": 2023,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/MG-HS",
+    "commit": "e2e84cc8f23b803318028e872adf91d233b5131e",
+    "file": "generations.yaml",
+    "originalName": "First Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mg",
+   "modelId": "hs",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2024,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/MG-HS",
+    "commit": "e2e84cc8f23b803318028e872adf91d233b5131e",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mg",
+   "modelId": "mg5",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2020,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/MG-MG5",
+    "commit": "ae3afa54c1049be4e408065dee78dd7bb2502ff5",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mg",
+   "modelId": "zs",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2017,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/MG-ZS",
+    "commit": "224cd000e67fbb2d68f5df28c9df00f6a10ce605",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mg",
+   "modelId": "zs",
+   "generationId": "obdb-second-generation-facelift",
+   "name": "Second Generation (Facelift)",
+   "yearStart": 2021,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/MG-ZS",
+    "commit": "224cd000e67fbb2d68f5df28c9df00f6a10ce605",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-3",
+   "generationId": "obdb-first-generation-dk-pre-facelift",
+   "name": "First Generation (DK) Pre-Facelift",
+   "yearStart": 2015,
+   "yearEnd": 2018,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-3",
+    "commit": "0ef7d66d7a4bdafee8fd1e3c09419453f47f07f7",
+    "file": "generations.yaml",
+    "originalName": "First Generation (DK) Pre-Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-3",
+   "generationId": "obdb-first-generation-dk-facelift",
+   "name": "First Generation (DK) Facelift",
+   "yearStart": 2018,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-3",
+    "commit": "0ef7d66d7a4bdafee8fd1e3c09419453f47f07f7",
+    "file": "generations.yaml",
+    "originalName": "First Generation (DK) Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-30",
+   "generationId": "obdb-first-generation-dm",
+   "name": "First Generation (DM)",
+   "yearStart": 2020,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-30",
+    "commit": "ad7829be650a242f52fb2e557d09306a9145c053",
+    "file": "generations.yaml",
+    "originalName": "First Generation (DM)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-5",
+   "generationId": "obdb-first-generation-ke",
+   "name": "First Generation (KE)",
+   "yearStart": 2013,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-5",
+    "commit": "e76c378b496fee0db9166b020c372cd309c89e6f",
+    "file": "generations.yaml",
+    "originalName": "First Generation (KE)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-5",
+   "generationId": "obdb-first-generation-ke-facelift",
+   "name": "First Generation (KE) Facelift",
+   "yearStart": 2016,
+   "yearEnd": 2016,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-5",
+    "commit": "e76c378b496fee0db9166b020c372cd309c89e6f",
+    "file": "generations.yaml",
+    "originalName": "First Generation (KE) Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-5",
+   "generationId": "obdb-second-generation-kf",
+   "name": "Second Generation (KF)",
+   "yearStart": 2017,
+   "yearEnd": 2021,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-5",
+    "commit": "e76c378b496fee0db9166b020c372cd309c89e6f",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (KF)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-5",
+   "generationId": "obdb-second-generation-kf-facelift",
+   "name": "Second Generation (KF) Facelift",
+   "yearStart": 2022,
+   "yearEnd": 2025,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-5",
+    "commit": "e76c378b496fee0db9166b020c372cd309c89e6f",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (KF) Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-5",
+   "generationId": "obdb-third-generation-ki",
+   "name": "Third Generation (KI)",
+   "yearStart": 2025,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-5",
+    "commit": "e76c378b496fee0db9166b020c372cd309c89e6f",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (KI)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-7",
+   "generationId": "obdb-first-generation-pre-facelift-er",
+   "name": "First Generation Pre-Facelift (ER)",
+   "yearStart": 2007,
+   "yearEnd": 2009,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-7",
+    "commit": "93b12873a9a499725f2b23946fff8673fba8d9de",
+    "file": "generations.yaml",
+    "originalName": "First Generation Pre-Facelift (ER)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-7",
+   "generationId": "obdb-first-generation-facelift-er",
+   "name": "First Generation Facelift (ER)",
+   "yearStart": 2010,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-7",
+    "commit": "93b12873a9a499725f2b23946fff8673fba8d9de",
+    "file": "generations.yaml",
+    "originalName": "First Generation Facelift (ER)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-9",
+   "generationId": "obdb-first-generation-tb",
+   "name": "First Generation (TB)",
+   "yearStart": 2006,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-9",
+    "commit": "ffe89ed2004e02a31c38dd56830ab5955737eef9",
+    "file": "generations.yaml",
+    "originalName": "First Generation (TB)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "cx-9",
+   "generationId": "obdb-second-generation-tc",
+   "name": "Second Generation (TC)",
+   "yearStart": 2016,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-CX-9",
+    "commit": "ffe89ed2004e02a31c38dd56830ab5955737eef9",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (TC)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "mx-5",
+   "generationId": "obdb-first-generation-na",
+   "name": "First Generation (NA)",
+   "yearStart": 1989,
+   "yearEnd": 1997,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-MX-5",
+    "commit": "7e2f689a304612c6ddac37f56dc7762d8760586d",
+    "file": "generations.yaml",
+    "originalName": "First Generation (NA)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "mx-5",
+   "generationId": "obdb-second-generation-nb",
+   "name": "Second Generation (NB)",
+   "yearStart": 1998,
+   "yearEnd": 2005,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-MX-5",
+    "commit": "7e2f689a304612c6ddac37f56dc7762d8760586d",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (NB)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "mx-5",
+   "generationId": "obdb-third-generation-nc",
+   "name": "Third Generation (NC)",
+   "yearStart": 2005,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-MX-5",
+    "commit": "7e2f689a304612c6ddac37f56dc7762d8760586d",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (NC)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mazda",
+   "modelId": "mx-5",
+   "generationId": "obdb-fourth-generation-nd",
+   "name": "Fourth Generation (ND)",
+   "yearStart": 2016,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Mazda-MX-5",
+    "commit": "7e2f689a304612c6ddac37f56dc7762d8760586d",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (ND)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mercedes-benz",
+   "modelId": "w203",
+   "generationId": "obdb-w203",
+   "name": "W203",
+   "yearStart": 2001,
+   "yearEnd": 2007,
+   "source": {
+    "repo": "https://github.com/OBDb/Mercedes-Benz-C-Class",
+    "commit": "986ef2248be95ff8695e2619d6a748277e99a597",
+    "file": "generations.yaml",
+    "originalName": "W203",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mercedes-benz",
+   "modelId": "w211",
+   "generationId": "obdb-third-generation-w211",
+   "name": "Third Generation (W211)",
+   "yearStart": 2002,
+   "yearEnd": 2009,
+   "source": {
+    "repo": "https://github.com/OBDb/Mercedes-Benz-E-Class",
+    "commit": "599203302424095a13c0e2b74687f115f74974e5",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (W211)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "mirage",
+   "generationId": "obdb-fifth-generation",
+   "name": "Fifth Generation",
+   "yearStart": 1995,
+   "yearEnd": 2003,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Mirage",
+    "commit": "e8e09893771d8ad1135c10bd499f5dcfc9a57739",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "mirage",
+   "generationId": "obdb-sixth-generation",
+   "name": "Sixth Generation",
+   "yearStart": 2012,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Mirage",
+    "commit": "e8e09893771d8ad1135c10bd499f5dcfc9a57739",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "outlander",
+   "generationId": "obdb-first-generation-cu-ze-zf",
+   "name": "First Generation (CU/ZE/ZF)",
+   "yearStart": 2001,
+   "yearEnd": 2008,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Outlander",
+    "commit": "be037bb47f2efa1db77a3da603f0940ad9a4d1f3",
+    "file": "generations.yaml",
+    "originalName": "First Generation (CU/ZE/ZF)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "outlander",
+   "generationId": "obdb-second-generation-cw-zg-zh",
+   "name": "Second Generation (CW/ZG/ZH)",
+   "yearStart": 2006,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Outlander",
+    "commit": "be037bb47f2efa1db77a3da603f0940ad9a4d1f3",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (CW/ZG/ZH)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "outlander",
+   "generationId": "obdb-third-generation-gf-gg-zj-zk-zl",
+   "name": "Third Generation (GF/GG/ZJ/ZK/ZL)",
+   "yearStart": 2012,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Outlander",
+    "commit": "be037bb47f2efa1db77a3da603f0940ad9a4d1f3",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (GF/GG/ZJ/ZK/ZL)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "outlander",
+   "generationId": "obdb-fourth-generation-gm-gn-zm",
+   "name": "Fourth Generation (GM/GN/ZM)",
+   "yearStart": 2021,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Outlander",
+    "commit": "be037bb47f2efa1db77a3da603f0940ad9a4d1f3",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (GM/GN/ZM)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "triton",
+   "generationId": "obdb-second-generation-k00-k10-k20-k30",
+   "name": "Second Generation (K00/K10/K20/K30)",
+   "yearStart": 1986,
+   "yearEnd": 1996,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Triton",
+    "commit": "12703c920a11b52717b070379442e1f2c4b04cd7",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (K00/K10/K20/K30)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "triton",
+   "generationId": "obdb-third-generation-k50-k60-k70",
+   "name": "Third Generation (K50/K60/K70)",
+   "yearStart": 1996,
+   "yearEnd": 2006,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Triton",
+    "commit": "12703c920a11b52717b070379442e1f2c4b04cd7",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (K50/K60/K70)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "triton",
+   "generationId": "obdb-fourth-generation-ka-kb",
+   "name": "Fourth Generation (KA/KB)",
+   "yearStart": 2005,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Triton",
+    "commit": "12703c920a11b52717b070379442e1f2c4b04cd7",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (KA/KB)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "triton",
+   "generationId": "obdb-fifth-generation-kj-kk-kl",
+   "name": "Fifth Generation (KJ/KK/KL)",
+   "yearStart": 2014,
+   "yearEnd": 2023,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Triton",
+    "commit": "12703c920a11b52717b070379442e1f2c4b04cd7",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (KJ/KK/KL)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "mitsubishi",
+   "modelId": "triton",
+   "generationId": "obdb-sixth-generation-lc-mv",
+   "name": "Sixth Generation (LC/MV)",
+   "yearStart": 2023,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Mitsubishi-Triton",
+    "commit": "12703c920a11b52717b070379442e1f2c4b04cd7",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation (LC/MV)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "juke",
+   "generationId": "obdb-first-generation-f15",
+   "name": "First Generation (F15)",
+   "yearStart": 2011,
+   "yearEnd": 2019,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Juke",
+    "commit": "4f343b5e014ff4c863a6499bb3e7d25512d2aeaf",
+    "file": "generations.yaml",
+    "originalName": "First Generation (F15)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "juke",
+   "generationId": "obdb-second-generation-f16",
+   "name": "Second Generation (F16)",
+   "yearStart": 2020,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Juke",
+    "commit": "4f343b5e014ff4c863a6499bb3e7d25512d2aeaf",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (F16)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "kicks",
+   "generationId": "obdb-first-generation-p15",
+   "name": "First Generation (P15)",
+   "yearStart": 2016,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Kicks",
+    "commit": "8804502016f12d123cc8ca62d911250221cc7d98",
+    "file": "generations.yaml",
+    "originalName": "First Generation (P15)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "kicks",
+   "generationId": "obdb-first-generation-p15-facelift",
+   "name": "First Generation (P15 Facelift)",
+   "yearStart": 2021,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Kicks",
+    "commit": "8804502016f12d123cc8ca62d911250221cc7d98",
+    "file": "generations.yaml",
+    "originalName": "First Generation (P15 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "kicks",
+   "generationId": "obdb-second-generation-p16",
+   "name": "Second Generation (P16)",
+   "yearStart": 2025,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Kicks",
+    "commit": "8804502016f12d123cc8ca62d911250221cc7d98",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (P16)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "navara",
+   "generationId": "obdb-d21-series",
+   "name": "D21 Series",
+   "yearStart": 1985,
+   "yearEnd": 1997,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Navara",
+    "commit": "2fcf3879c01bc799416327d6e59054572e9a6053",
+    "file": "generations.yaml",
+    "originalName": "D21 Series",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "navara",
+   "generationId": "obdb-first-generation-d22",
+   "name": "First Generation (D22)",
+   "yearStart": 1997,
+   "yearEnd": 2004,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Navara",
+    "commit": "2fcf3879c01bc799416327d6e59054572e9a6053",
+    "file": "generations.yaml",
+    "originalName": "First Generation (D22)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "navara",
+   "generationId": "obdb-first-generation-d22-facelift",
+   "name": "First Generation (D22 Facelift)",
+   "yearStart": 2004,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Navara",
+    "commit": "2fcf3879c01bc799416327d6e59054572e9a6053",
+    "file": "generations.yaml",
+    "originalName": "First Generation (D22 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "navara",
+   "generationId": "obdb-second-generation-d40",
+   "name": "Second Generation (D40)",
+   "yearStart": 2005,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Navara",
+    "commit": "2fcf3879c01bc799416327d6e59054572e9a6053",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (D40)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "navara",
+   "generationId": "obdb-second-generation-d40-facelift",
+   "name": "Second Generation (D40 Facelift)",
+   "yearStart": 2015,
+   "yearEnd": 2021,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Navara",
+    "commit": "2fcf3879c01bc799416327d6e59054572e9a6053",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (D40 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "navara",
+   "generationId": "obdb-third-generation-d23",
+   "name": "Third Generation (D23)",
+   "yearStart": 2014,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Navara",
+    "commit": "2fcf3879c01bc799416327d6e59054572e9a6053",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (D23)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "navara",
+   "generationId": "obdb-third-generation-d23-facelift",
+   "name": "Third Generation (D23 Facelift)",
+   "yearStart": 2021,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Navara",
+    "commit": "2fcf3879c01bc799416327d6e59054572e9a6053",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (D23 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "navara",
+   "generationId": "obdb-fourth-generation-d27",
+   "name": "Fourth Generation (D27)",
+   "yearStart": 2025,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Navara",
+    "commit": "2fcf3879c01bc799416327d6e59054572e9a6053",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (D27)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "pulsar",
+   "generationId": "obdb-fifth-generation-n15",
+   "name": "Fifth Generation (N15)",
+   "yearStart": 1995,
+   "yearEnd": 2000,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Pulsar",
+    "commit": "b557be25f5ad8c68610bd5b85ee51bc2d0fb639f",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (N15)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "pulsar",
+   "generationId": "obdb-sixth-generation-n16",
+   "name": "Sixth Generation (N16)",
+   "yearStart": 2001,
+   "yearEnd": 2005,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Pulsar",
+    "commit": "b557be25f5ad8c68610bd5b85ee51bc2d0fb639f",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation (N16)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "pulsar",
+   "generationId": "obdb-c13-generation-european-market",
+   "name": "C13 Generation (European Market)",
+   "yearStart": 2014,
+   "yearEnd": 2018,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-Pulsar",
+    "commit": "b557be25f5ad8c68610bd5b85ee51bc2d0fb639f",
+    "file": "generations.yaml",
+    "originalName": "C13 Generation (European Market)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "x-trail",
+   "generationId": "obdb-first-generation-t30",
+   "name": "First Generation (T30)",
+   "yearStart": 2001,
+   "yearEnd": 2007,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-X-Trail",
+    "commit": "dc724f11d8cae87685f36e254c7ce3311f1b34ef",
+    "file": "generations.yaml",
+    "originalName": "First Generation (T30)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "x-trail",
+   "generationId": "obdb-second-generation-t31",
+   "name": "Second Generation (T31)",
+   "yearStart": 2008,
+   "yearEnd": 2013,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-X-Trail",
+    "commit": "dc724f11d8cae87685f36e254c7ce3311f1b34ef",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (T31)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "x-trail",
+   "generationId": "obdb-third-generation-t32",
+   "name": "Third Generation (T32)",
+   "yearStart": 2014,
+   "yearEnd": 2021,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-X-Trail",
+    "commit": "dc724f11d8cae87685f36e254c7ce3311f1b34ef",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (T32)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "nissan",
+   "modelId": "x-trail",
+   "generationId": "obdb-fourth-generation-t33",
+   "name": "Fourth Generation (T33)",
+   "yearStart": 2022,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Nissan-X-Trail",
+    "commit": "dc724f11d8cae87685f36e254c7ce3311f1b34ef",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (T33)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "207",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2006,
+   "yearEnd": 2012,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-207",
+    "commit": "6e8422f99a7a0386f8540c3760754754d49270ef",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "207",
+   "generationId": "obdb-first-generation-facelift",
+   "name": "First Generation (Facelift)",
+   "yearStart": 2009,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-207",
+    "commit": "6e8422f99a7a0386f8540c3760754754d49270ef",
+    "file": "generations.yaml",
+    "originalName": "First Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "208",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2012,
+   "yearEnd": 2019,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-208",
+    "commit": "44f62fa3eb53c2c445de0aeb956d895d03267d98",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "208",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2020,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-208",
+    "commit": "44f62fa3eb53c2c445de0aeb956d895d03267d98",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "3008",
+   "generationId": "obdb-first-generation-t84",
+   "name": "First Generation (T84)",
+   "yearStart": 2008,
+   "yearEnd": 2016,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-3008",
+    "commit": "c6a9dfabe90d2c9ec5c92443bda691e8985fe85d",
+    "file": "generations.yaml",
+    "originalName": "First Generation (T84)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "3008",
+   "generationId": "obdb-second-generation-p84",
+   "name": "Second Generation (P84)",
+   "yearStart": 2016,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-3008",
+    "commit": "c6a9dfabe90d2c9ec5c92443bda691e8985fe85d",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (P84)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "3008",
+   "generationId": "obdb-third-generation-p64",
+   "name": "Third Generation (P64)",
+   "yearStart": 2024,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-3008",
+    "commit": "c6a9dfabe90d2c9ec5c92443bda691e8985fe85d",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (P64)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "307",
+   "generationId": "obdb-first-generation-pre-facelift",
+   "name": "First Generation (Pre-Facelift)",
+   "yearStart": 2001,
+   "yearEnd": 2005,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-307",
+    "commit": "fb484140145dc5da974ad118bf350055deb481d8",
+    "file": "generations.yaml",
+    "originalName": "First Generation (Pre-Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "307",
+   "generationId": "obdb-first-generation-facelift",
+   "name": "First Generation (Facelift)",
+   "yearStart": 2005,
+   "yearEnd": 2008,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-307",
+    "commit": "fb484140145dc5da974ad118bf350055deb481d8",
+    "file": "generations.yaml",
+    "originalName": "First Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "308",
+   "generationId": "obdb-first-generation-t7",
+   "name": "First Generation (T7)",
+   "yearStart": 2007,
+   "yearEnd": 2021,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-308",
+    "commit": "2912c48bb6fe8d1436761dcaef8fdab7ac212048",
+    "file": "generations.yaml",
+    "originalName": "First Generation (T7)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "308",
+   "generationId": "obdb-second-generation-t9",
+   "name": "Second Generation (T9)",
+   "yearStart": 2013,
+   "yearEnd": 2021,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-308",
+    "commit": "2912c48bb6fe8d1436761dcaef8fdab7ac212048",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (T9)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "308",
+   "generationId": "obdb-third-generation-p5",
+   "name": "Third Generation (P5)",
+   "yearStart": 2021,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-308",
+    "commit": "2912c48bb6fe8d1436761dcaef8fdab7ac212048",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (P5)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "407",
+   "generationId": "obdb-first-generation-d2",
+   "name": "First Generation (D2)",
+   "yearStart": 2004,
+   "yearEnd": 2011,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-407",
+    "commit": "03243d2602caa1a16efe15802f32c2093df5217d",
+    "file": "generations.yaml",
+    "originalName": "First Generation (D2)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "408",
+   "generationId": "obdb-first-generation-t7",
+   "name": "First Generation (T7)",
+   "yearStart": 2010,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-408",
+    "commit": "6dd823cfb0461bc49d960d5999ec52e223ad7d69",
+    "file": "generations.yaml",
+    "originalName": "First Generation (T7)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "408",
+   "generationId": "obdb-second-generation-p54",
+   "name": "Second Generation (P54)",
+   "yearStart": 2022,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-408",
+    "commit": "6dd823cfb0461bc49d960d5999ec52e223ad7d69",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (P54)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "5008",
+   "generationId": "obdb-first-generation-t87",
+   "name": "First Generation (T87)",
+   "yearStart": 2009,
+   "yearEnd": 2017,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-5008",
+    "commit": "b11f0cf5e3802ae866cc97e99defdff3e8b7651a",
+    "file": "generations.yaml",
+    "originalName": "First Generation (T87)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "5008",
+   "generationId": "obdb-second-generation-p87",
+   "name": "Second Generation (P87)",
+   "yearStart": 2017,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-5008",
+    "commit": "b11f0cf5e3802ae866cc97e99defdff3e8b7651a",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (P87)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "peugeot",
+   "modelId": "5008",
+   "generationId": "obdb-third-generation-p64",
+   "name": "Third Generation (P64)",
+   "yearStart": 2024,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Peugeot-5008",
+    "commit": "b11f0cf5e3802ae866cc97e99defdff3e8b7651a",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (P64)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "brz",
+   "generationId": "obdb-first-generation-zc6",
+   "name": "First Generation (ZC6)",
+   "yearStart": 2012,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-BRZ",
+    "commit": "bff2c15f8ee3b7e7bc69cacc7eeed4b0f9b16829",
+    "file": "generations.yaml",
+    "originalName": "First Generation (ZC6)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "brz",
+   "generationId": "obdb-second-generation-zd8",
+   "name": "Second Generation (ZD8)",
+   "yearStart": 2022,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-BRZ",
+    "commit": "bff2c15f8ee3b7e7bc69cacc7eeed4b0f9b16829",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (ZD8)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "forester",
+   "generationId": "obdb-first-generation-sf",
+   "name": "First Generation (SF)",
+   "yearStart": 1997,
+   "yearEnd": 2002,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Forester",
+    "commit": "21655dba9fc2f91b8130db1836da22aa7ed82604",
+    "file": "generations.yaml",
+    "originalName": "First Generation (SF)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "forester",
+   "generationId": "obdb-second-generation-sg",
+   "name": "Second Generation (SG)",
+   "yearStart": 2003,
+   "yearEnd": 2008,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Forester",
+    "commit": "21655dba9fc2f91b8130db1836da22aa7ed82604",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (SG)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "forester",
+   "generationId": "obdb-third-generation-sh",
+   "name": "Third Generation (SH)",
+   "yearStart": 2009,
+   "yearEnd": 2013,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Forester",
+    "commit": "21655dba9fc2f91b8130db1836da22aa7ed82604",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (SH)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "forester",
+   "generationId": "obdb-fourth-generation-sj",
+   "name": "Fourth Generation (SJ)",
+   "yearStart": 2014,
+   "yearEnd": 2018,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Forester",
+    "commit": "21655dba9fc2f91b8130db1836da22aa7ed82604",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (SJ)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "forester",
+   "generationId": "obdb-fifth-generation-sk",
+   "name": "Fifth Generation (SK)",
+   "yearStart": 2019,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Forester",
+    "commit": "21655dba9fc2f91b8130db1836da22aa7ed82604",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (SK)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "forester",
+   "generationId": "obdb-sixth-generation-sl",
+   "name": "Sixth Generation (SL)",
+   "yearStart": 2025,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Forester",
+    "commit": "21655dba9fc2f91b8130db1836da22aa7ed82604",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation (SL)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "legacy",
+   "generationId": "obdb-second-generation-bd-bg-bk",
+   "name": "Second Generation (BD/BG/BK)",
+   "yearStart": 1995,
+   "yearEnd": 1999,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Legacy",
+    "commit": "a4e45a7300ee112f16e79721b2234520a006c73b",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (BD/BG/BK)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "legacy",
+   "generationId": "obdb-third-generation-be-bh",
+   "name": "Third Generation (BE/BH)",
+   "yearStart": 2000,
+   "yearEnd": 2004,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Legacy",
+    "commit": "a4e45a7300ee112f16e79721b2234520a006c73b",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (BE/BH)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "legacy",
+   "generationId": "obdb-fourth-generation-bl-bp",
+   "name": "Fourth Generation (BL/BP)",
+   "yearStart": 2005,
+   "yearEnd": 2009,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Legacy",
+    "commit": "a4e45a7300ee112f16e79721b2234520a006c73b",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (BL/BP)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "legacy",
+   "generationId": "obdb-fifth-generation-bm-br",
+   "name": "Fifth Generation (BM/BR)",
+   "yearStart": 2010,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Legacy",
+    "commit": "a4e45a7300ee112f16e79721b2234520a006c73b",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (BM/BR)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "legacy",
+   "generationId": "obdb-sixth-generation-bn-bs",
+   "name": "Sixth Generation (BN/BS)",
+   "yearStart": 2015,
+   "yearEnd": 2019,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Legacy",
+    "commit": "a4e45a7300ee112f16e79721b2234520a006c73b",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation (BN/BS)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "legacy",
+   "generationId": "obdb-seventh-generation-bw",
+   "name": "Seventh Generation (BW)",
+   "yearStart": 2020,
+   "yearEnd": 2025,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Legacy",
+    "commit": "a4e45a7300ee112f16e79721b2234520a006c73b",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation (BW)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "outback",
+   "generationId": "obdb-first-generation-bg",
+   "name": "First Generation (BG)",
+   "yearStart": 1994,
+   "yearEnd": 1999,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Outback",
+    "commit": "b42e7877a8e9191830ef5c6b9f6989b5278592f1",
+    "file": "generations.yaml",
+    "originalName": "First Generation (BG)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "outback",
+   "generationId": "obdb-second-generation-bh",
+   "name": "Second Generation (BH)",
+   "yearStart": 2000,
+   "yearEnd": 2004,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Outback",
+    "commit": "b42e7877a8e9191830ef5c6b9f6989b5278592f1",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (BH)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "outback",
+   "generationId": "obdb-third-generation-bp",
+   "name": "Third Generation (BP)",
+   "yearStart": 2005,
+   "yearEnd": 2009,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Outback",
+    "commit": "b42e7877a8e9191830ef5c6b9f6989b5278592f1",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (BP)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "outback",
+   "generationId": "obdb-fourth-generation-br",
+   "name": "Fourth Generation (BR)",
+   "yearStart": 2010,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Outback",
+    "commit": "b42e7877a8e9191830ef5c6b9f6989b5278592f1",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (BR)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "outback",
+   "generationId": "obdb-fifth-generation-bs",
+   "name": "Fifth Generation (BS)",
+   "yearStart": 2015,
+   "yearEnd": 2019,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Outback",
+    "commit": "b42e7877a8e9191830ef5c6b9f6989b5278592f1",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (BS)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "outback",
+   "generationId": "obdb-sixth-generation-bt",
+   "name": "Sixth Generation (BT)",
+   "yearStart": 2020,
+   "yearEnd": 2025,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Outback",
+    "commit": "b42e7877a8e9191830ef5c6b9f6989b5278592f1",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation (BT)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "subaru",
+   "modelId": "outback",
+   "generationId": "obdb-seventh-generation-bu",
+   "name": "Seventh Generation (BU)",
+   "yearStart": 2025,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Subaru-Outback",
+    "commit": "b42e7877a8e9191830ef5c6b9f6989b5278592f1",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation (BU)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "suzuki",
+   "modelId": "swift",
+   "generationId": "obdb-third-generation-cultus-ht51-81",
+   "name": "Third Generation (Cultus/HT51/81)",
+   "yearStart": 1994,
+   "yearEnd": 2000,
+   "source": {
+    "repo": "https://github.com/OBDb/Suzuki-Swift",
+    "commit": "5623f430dd81584019071df5d049aa7645b56edb",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (Cultus/HT51/81)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "suzuki",
+   "modelId": "swift",
+   "generationId": "obdb-fourth-generation-ht",
+   "name": "Fourth Generation (HT)",
+   "yearStart": 2000,
+   "yearEnd": 2004,
+   "source": {
+    "repo": "https://github.com/OBDb/Suzuki-Swift",
+    "commit": "5623f430dd81584019071df5d049aa7645b56edb",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (HT)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "suzuki",
+   "modelId": "swift",
+   "generationId": "obdb-fifth-generation-zc11-21-31-71-rs-series",
+   "name": "Fifth Generation (ZC11/21/31/71/RS series)",
+   "yearStart": 2004,
+   "yearEnd": 2010,
+   "source": {
+    "repo": "https://github.com/OBDb/Suzuki-Swift",
+    "commit": "5623f430dd81584019071df5d049aa7645b56edb",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (ZC11/21/31/71/RS series)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "suzuki",
+   "modelId": "swift",
+   "generationId": "obdb-sixth-generation-zc72-82-32-azg-series",
+   "name": "Sixth Generation (ZC72/82/32/AZG series)",
+   "yearStart": 2010,
+   "yearEnd": 2017,
+   "source": {
+    "repo": "https://github.com/OBDb/Suzuki-Swift",
+    "commit": "5623f430dd81584019071df5d049aa7645b56edb",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation (ZC72/82/32/AZG series)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "suzuki",
+   "modelId": "swift",
+   "generationId": "obdb-seventh-generation-zc13-33-43-53-83-93-a2l-series",
+   "name": "Seventh Generation (ZC13/33/43/53/83/93/A2L series)",
+   "yearStart": 2017,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/Suzuki-Swift",
+    "commit": "5623f430dd81584019071df5d049aa7645b56edb",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation (ZC13/33/43/53/83/93/A2L series)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "suzuki",
+   "modelId": "swift",
+   "generationId": "obdb-eighth-generation-aol-series",
+   "name": "Eighth Generation (AOL series)",
+   "yearStart": 2023,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Suzuki-Swift",
+    "commit": "5623f430dd81584019071df5d049aa7645b56edb",
+    "file": "generations.yaml",
+    "originalName": "Eighth Generation (AOL series)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "aygo",
+   "generationId": "obdb-first-generation-ab10-ab20-ab30",
+   "name": "First Generation (AB10/AB20/AB30)",
+   "yearStart": 2005,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Aygo",
+    "commit": "8a6c515a87fc3930a6d62d91342e1b4f35c876d3",
+    "file": "generations.yaml",
+    "originalName": "First Generation (AB10/AB20/AB30)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "aygo",
+   "generationId": "obdb-second-generation-ab40",
+   "name": "Second Generation (AB40)",
+   "yearStart": 2014,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Aygo",
+    "commit": "8a6c515a87fc3930a6d62d91342e1b4f35c876d3",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (AB40)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "aygo",
+   "generationId": "obdb-third-generation-aygo-x",
+   "name": "Third Generation (Aygo X)",
+   "yearStart": 2022,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Aygo",
+    "commit": "8a6c515a87fc3930a6d62d91342e1b4f35c876d3",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (Aygo X)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "c-hr",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2016,
+   "yearEnd": 2023,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-C-HR",
+    "commit": "caa2ddfd55c82e7edc0eb9895bcbf4b7d3777007",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "c-hr",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2023,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-C-HR",
+    "commit": "caa2ddfd55c82e7edc0eb9895bcbf4b7d3777007",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "camry",
+   "generationId": "obdb-third-generation-v30-xv10",
+   "name": "Third Generation (V30/XV10)",
+   "yearStart": 1991,
+   "yearEnd": 1996,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Camry",
+    "commit": "bacab1dd74b02be6b76e6a419cc568e8f76f48fa",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (V30/XV10)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "camry",
+   "generationId": "obdb-fourth-generation-xv20",
+   "name": "Fourth Generation (XV20)",
+   "yearStart": 1996,
+   "yearEnd": 2001,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Camry",
+    "commit": "bacab1dd74b02be6b76e6a419cc568e8f76f48fa",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (XV20)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "camry",
+   "generationId": "obdb-fifth-generation-xv30",
+   "name": "Fifth Generation (XV30)",
+   "yearStart": 2001,
+   "yearEnd": 2006,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Camry",
+    "commit": "bacab1dd74b02be6b76e6a419cc568e8f76f48fa",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (XV30)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "camry",
+   "generationId": "obdb-sixth-generation-xv40",
+   "name": "Sixth Generation (XV40)",
+   "yearStart": 2006,
+   "yearEnd": 2011,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Camry",
+    "commit": "bacab1dd74b02be6b76e6a419cc568e8f76f48fa",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation (XV40)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "camry",
+   "generationId": "obdb-seventh-generation-xv50",
+   "name": "Seventh Generation (XV50)",
+   "yearStart": 2011,
+   "yearEnd": 2017,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Camry",
+    "commit": "bacab1dd74b02be6b76e6a419cc568e8f76f48fa",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation (XV50)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "camry",
+   "generationId": "obdb-eighth-generation-xv70",
+   "name": "Eighth Generation (XV70)",
+   "yearStart": 2017,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Camry",
+    "commit": "bacab1dd74b02be6b76e6a419cc568e8f76f48fa",
+    "file": "generations.yaml",
+    "originalName": "Eighth Generation (XV70)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "celica",
+   "generationId": "obdb-sixth-generation",
+   "name": "Sixth Generation",
+   "yearStart": 1993,
+   "yearEnd": 1999,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Celica",
+    "commit": "11990cf1f9157d8590bdeb68a074fad300e020bc",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "celica",
+   "generationId": "obdb-seventh-generation",
+   "name": "Seventh Generation",
+   "yearStart": 1999,
+   "yearEnd": 2006,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Celica",
+    "commit": "11990cf1f9157d8590bdeb68a074fad300e020bc",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "corolla-cross",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2020,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Corolla-Cross",
+    "commit": "7bf0084eb16052be49d7e760427d86f053871a4d",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "fortuner",
+   "generationId": "obdb-first-generation-an50-an60",
+   "name": "First Generation (AN50/AN60)",
+   "yearStart": 2005,
+   "yearEnd": 2008,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Fortuner",
+    "commit": "b48b60926d6a147be56a6257ad8d7c0a47d7bc9c",
+    "file": "generations.yaml",
+    "originalName": "First Generation (AN50/AN60)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "fortuner",
+   "generationId": "obdb-first-generation-an50-an60-first-facelift",
+   "name": "First Generation (AN50/AN60) - First Facelift",
+   "yearStart": 2008,
+   "yearEnd": 2011,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Fortuner",
+    "commit": "b48b60926d6a147be56a6257ad8d7c0a47d7bc9c",
+    "file": "generations.yaml",
+    "originalName": "First Generation (AN50/AN60) - First Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "fortuner",
+   "generationId": "obdb-first-generation-an50-an60-second-facelift",
+   "name": "First Generation (AN50/AN60) - Second Facelift",
+   "yearStart": 2011,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Fortuner",
+    "commit": "b48b60926d6a147be56a6257ad8d7c0a47d7bc9c",
+    "file": "generations.yaml",
+    "originalName": "First Generation (AN50/AN60) - Second Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "fortuner",
+   "generationId": "obdb-second-generation-an150-an160",
+   "name": "Second Generation (AN150/AN160)",
+   "yearStart": 2015,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Fortuner",
+    "commit": "b48b60926d6a147be56a6257ad8d7c0a47d7bc9c",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (AN150/AN160)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "fortuner",
+   "generationId": "obdb-second-generation-an150-an160-facelift",
+   "name": "Second Generation (AN150/AN160) - Facelift",
+   "yearStart": 2020,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Fortuner",
+    "commit": "b48b60926d6a147be56a6257ad8d7c0a47d7bc9c",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (AN150/AN160) - Facelift",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "gt86",
+   "generationId": "obdb-first-generation-zn6",
+   "name": "First Generation (ZN6)",
+   "yearStart": 2012,
+   "yearEnd": 2021,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-GT86",
+    "commit": "d34664a331c6207f287441a7a358b96fc76d6400",
+    "file": "generations.yaml",
+    "originalName": "First Generation (ZN6)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "hilux-revo",
+   "generationId": "obdb-eighth-generation-an120-an130",
+   "name": "Eighth Generation (AN120/AN130)",
+   "yearStart": 2015,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Hilux",
+    "commit": "b499e5b12472f4142fbdd629ada7da6522c3a706",
+    "file": "generations.yaml",
+    "originalName": "Eighth Generation (AN120/AN130)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "hilux-tiger-d4d",
+   "generationId": "obdb-sixth-generation-n140-n150-n160-n170",
+   "name": "Sixth Generation (N140/N150/N160/N170)",
+   "yearStart": 1997,
+   "yearEnd": 2005,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Hilux",
+    "commit": "b499e5b12472f4142fbdd629ada7da6522c3a706",
+    "file": "generations.yaml",
+    "originalName": "Sixth Generation (N140/N150/N160/N170)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "hilux-vigo",
+   "generationId": "obdb-seventh-generation-an10-an20-an30",
+   "name": "Seventh Generation (AN10/AN20/AN30)",
+   "yearStart": 2004,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Hilux",
+    "commit": "b499e5b12472f4142fbdd629ada7da6522c3a706",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation (AN10/AN20/AN30)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "hilux-vigo-champ",
+   "generationId": "obdb-seventh-generation-an10-an20-an30",
+   "name": "Seventh Generation (AN10/AN20/AN30)",
+   "yearStart": 2004,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Hilux",
+    "commit": "b499e5b12472f4142fbdd629ada7da6522c3a706",
+    "file": "generations.yaml",
+    "originalName": "Seventh Generation (AN10/AN20/AN30)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "innova",
+   "generationId": "obdb-first-generation-an40",
+   "name": "First Generation (AN40)",
+   "yearStart": 2004,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Innova",
+    "commit": "53e3dff4c79fd7b7811350b07f669e12f102f7fd",
+    "file": "generations.yaml",
+    "originalName": "First Generation (AN40)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "innova",
+   "generationId": "obdb-second-generation-an140",
+   "name": "Second Generation (AN140)",
+   "yearStart": 2015,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Innova",
+    "commit": "53e3dff4c79fd7b7811350b07f669e12f102f7fd",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (AN140)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "innova",
+   "generationId": "obdb-third-generation-innova-hycross-zenix",
+   "name": "Third Generation (Innova Hycross/Zenix)",
+   "yearStart": 2022,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Innova",
+    "commit": "53e3dff4c79fd7b7811350b07f669e12f102f7fd",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (Innova Hycross/Zenix)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "prius",
+   "generationId": "obdb-first-generation-xw10",
+   "name": "First Generation (XW10)",
+   "yearStart": 1997,
+   "yearEnd": 2003,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Prius",
+    "commit": "72b8cc3dc99b1520d78dac0103bcc44ea7f8f116",
+    "file": "generations.yaml",
+    "originalName": "First Generation (XW10)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "prius",
+   "generationId": "obdb-second-generation-xw20",
+   "name": "Second Generation (XW20)",
+   "yearStart": 2003,
+   "yearEnd": 2009,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Prius",
+    "commit": "72b8cc3dc99b1520d78dac0103bcc44ea7f8f116",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (XW20)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "prius",
+   "generationId": "obdb-third-generation-xw30",
+   "name": "Third Generation (XW30)",
+   "yearStart": 2009,
+   "yearEnd": 2015,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Prius",
+    "commit": "72b8cc3dc99b1520d78dac0103bcc44ea7f8f116",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (XW30)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "prius",
+   "generationId": "obdb-fourth-generation-xw50",
+   "name": "Fourth Generation (XW50)",
+   "yearStart": 2015,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Prius",
+    "commit": "72b8cc3dc99b1520d78dac0103bcc44ea7f8f116",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (XW50)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "prius",
+   "generationId": "obdb-fifth-generation-xw60",
+   "name": "Fifth Generation (XW60)",
+   "yearStart": 2023,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Prius",
+    "commit": "72b8cc3dc99b1520d78dac0103bcc44ea7f8f116",
+    "file": "generations.yaml",
+    "originalName": "Fifth Generation (XW60)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "veloz",
+   "generationId": "obdb-first-generation-w100",
+   "name": "First Generation (W100)",
+   "yearStart": 2021,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Veloz",
+    "commit": "a3608669e6f43ee62c21c6f5b133af72bdb829b1",
+    "file": "generations.yaml",
+    "originalName": "First Generation (W100)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "vios",
+   "generationId": "obdb-second-generation-xp90",
+   "name": "Second Generation (XP90)",
+   "yearStart": 2007,
+   "yearEnd": 2013,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Vios",
+    "commit": "e7028afbec584a9986662b029661aa20e654855b",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (XP90)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "vios",
+   "generationId": "obdb-third-generation-xp150",
+   "name": "Third Generation (XP150)",
+   "yearStart": 2013,
+   "yearEnd": 2023,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Vios",
+    "commit": "e7028afbec584a9986662b029661aa20e654855b",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (XP150)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "yaris",
+   "generationId": "obdb-first-generation-xp10",
+   "name": "First Generation (XP10)",
+   "yearStart": 1998,
+   "yearEnd": 2005,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Yaris",
+    "commit": "034d3db88054f5aba9ccf1bad5a544bdc9944bd3",
+    "file": "generations.yaml",
+    "originalName": "First Generation (XP10)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "yaris",
+   "generationId": "obdb-second-generation-xp90",
+   "name": "Second Generation (XP90)",
+   "yearStart": 2005,
+   "yearEnd": 2013,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Yaris",
+    "commit": "034d3db88054f5aba9ccf1bad5a544bdc9944bd3",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (XP90)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "yaris",
+   "generationId": "obdb-third-generation-xp130",
+   "name": "Third Generation (XP130)",
+   "yearStart": 2011,
+   "yearEnd": 2020,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Yaris",
+    "commit": "034d3db88054f5aba9ccf1bad5a544bdc9944bd3",
+    "file": "generations.yaml",
+    "originalName": "Third Generation (XP130)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "toyota",
+   "modelId": "yaris",
+   "generationId": "obdb-fourth-generation-xp210",
+   "name": "Fourth Generation (XP210)",
+   "yearStart": 2020,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Toyota-Yaris",
+    "commit": "034d3db88054f5aba9ccf1bad5a544bdc9944bd3",
+    "file": "generations.yaml",
+    "originalName": "Fourth Generation (XP210)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "s60",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2000,
+   "yearEnd": 2009,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-S60",
+    "commit": "8f953fd6006fa6c50d3bd2dec9ba2f5e8582a12c",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "s60",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2010,
+   "yearEnd": 2018,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-S60",
+    "commit": "8f953fd6006fa6c50d3bd2dec9ba2f5e8582a12c",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "s60",
+   "generationId": "obdb-third-generation",
+   "name": "Third Generation",
+   "yearStart": 2019,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-S60",
+    "commit": "8f953fd6006fa6c50d3bd2dec9ba2f5e8582a12c",
+    "file": "generations.yaml",
+    "originalName": "Third Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "s80",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2007,
+   "yearEnd": 2016,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-S80",
+    "commit": "71f3227c71925bfd52bb1887c4525a4b85f44ae2",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "v60",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2010,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-V60",
+    "commit": "a11c284ac6e999ad193e2dcede5b8fe6148776d4",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "v60",
+   "generationId": "obdb-first-generation-facelift",
+   "name": "First Generation (Facelift)",
+   "yearStart": 2014,
+   "yearEnd": 2018,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-V60",
+    "commit": "a11c284ac6e999ad193e2dcede5b8fe6148776d4",
+    "file": "generations.yaml",
+    "originalName": "First Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "v60",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2018,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-V60",
+    "commit": "a11c284ac6e999ad193e2dcede5b8fe6148776d4",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "v70",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 1997,
+   "yearEnd": 2000,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-V70",
+    "commit": "60f53773e64510cfb0ec9705bdc6f7339d2d556f",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "v70",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2001,
+   "yearEnd": 2007,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-V70",
+    "commit": "60f53773e64510cfb0ec9705bdc6f7339d2d556f",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "v70",
+   "generationId": "obdb-third-generation",
+   "name": "Third Generation",
+   "yearStart": 2008,
+   "yearEnd": 2016,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-V70",
+    "commit": "60f53773e64510cfb0ec9705bdc6f7339d2d556f",
+    "file": "generations.yaml",
+    "originalName": "Third Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "xc40",
+   "generationId": "obdb-first-generation-pre-facelift",
+   "name": "First Generation (Pre-Facelift)",
+   "yearStart": 2017,
+   "yearEnd": 2022,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-XC40",
+    "commit": "7382238176a3b2e6af233fd980d29fee68f3ed81",
+    "file": "generations.yaml",
+    "originalName": "First Generation (Pre-Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "xc40",
+   "generationId": "obdb-first-generation-facelift",
+   "name": "First Generation (Facelift)",
+   "yearStart": 2023,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-XC40",
+    "commit": "7382238176a3b2e6af233fd980d29fee68f3ed81",
+    "file": "generations.yaml",
+    "originalName": "First Generation (Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "xc60",
+   "generationId": "obdb-first-generation",
+   "name": "First Generation",
+   "yearStart": 2008,
+   "yearEnd": 2017,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-XC60",
+    "commit": "506b10261f2617223219b422898f9a7c61db486d",
+    "file": "generations.yaml",
+    "originalName": "First Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "xc60",
+   "generationId": "obdb-second-generation",
+   "name": "Second Generation",
+   "yearStart": 2018,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-XC60",
+    "commit": "506b10261f2617223219b422898f9a7c61db486d",
+    "file": "generations.yaml",
+    "originalName": "Second Generation",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "xc90",
+   "generationId": "obdb-first-generation-2002",
+   "name": "First Generation (2002)",
+   "yearStart": 2002,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-XC90",
+    "commit": "f0597dd842e5592ad671a5109e65337db9966c88",
+    "file": "generations.yaml",
+    "originalName": "First Generation (2002)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "xc90",
+   "generationId": "obdb-first-generation-2007-facelift",
+   "name": "First Generation (2007 Facelift)",
+   "yearStart": 2007,
+   "yearEnd": 2011,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-XC90",
+    "commit": "f0597dd842e5592ad671a5109e65337db9966c88",
+    "file": "generations.yaml",
+    "originalName": "First Generation (2007 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "xc90",
+   "generationId": "obdb-first-generation-2012-facelift",
+   "name": "First Generation (2012 Facelift)",
+   "yearStart": 2012,
+   "yearEnd": 2014,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-XC90",
+    "commit": "f0597dd842e5592ad671a5109e65337db9966c88",
+    "file": "generations.yaml",
+    "originalName": "First Generation (2012 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "xc90",
+   "generationId": "obdb-second-generation-2015",
+   "name": "Second Generation (2015)",
+   "yearStart": 2015,
+   "yearEnd": 2019,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-XC90",
+    "commit": "f0597dd842e5592ad671a5109e65337db9966c88",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (2015)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "xc90",
+   "generationId": "obdb-second-generation-2020-facelift",
+   "name": "Second Generation (2020 Facelift)",
+   "yearStart": 2020,
+   "yearEnd": 2024,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-XC90",
+    "commit": "f0597dd842e5592ad671a5109e65337db9966c88",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (2020 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  },
+  {
+   "makeId": "volvo",
+   "modelId": "xc90",
+   "generationId": "obdb-second-generation-2025-facelift",
+   "name": "Second Generation (2025 Facelift)",
+   "yearStart": 2025,
+   "yearEnd": null,
+   "source": {
+    "repo": "https://github.com/OBDb/Volvo-XC90",
+    "commit": "f0597dd842e5592ad671a5109e65337db9966c88",
+    "file": "generations.yaml",
+    "originalName": "Second Generation (2025 Facelift)",
+    "license": "CC-BY-SA-4.0"
+   }
+  }
+ ]
+}
