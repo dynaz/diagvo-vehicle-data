@@ -33,6 +33,18 @@ Then:
 Not mapped: Toyota Hilux Champ and Hilux Travo (no matching OBDb generation),
 Isuzu D-Max (no Isuzu repository; `Chevrolet-D-Max` was not assumed to apply).
 
+## Signal definitions (extended data)
+
+`assets/obdb/signals/` (published as `obdb/signals/`) holds OBDb signalsets for the mapped models: every
+`signalsets/v3/*.json` file of each repository (`default` and year overrides),
+reduced to the fields Diagvo decodes (command header, receive address,
+service and PID, filters, signal ids, names, paths and formats);
+descriptions were removed. `assets/obdb/vehicles.json` maps Diagvo `makeId/modelId` to the
+repository. Built by `tool/catalog/build_obdb_signals.py`.
+
+These definitions are community data. Diagvo has not verified them on any
+vehicle and does not derive diagnostic coverage from them.
+
 ## Meaning
 
 These records describe **which generations of a model exist and when they were
